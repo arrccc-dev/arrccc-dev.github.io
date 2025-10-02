@@ -2,6 +2,7 @@
 title: "Starcrossed"
 date: 2025-10-01
 description: "A ramping difficulty arcade style local co-op game."
+hero: "hero.png"
 ---
 
 ## STARCROSSED
