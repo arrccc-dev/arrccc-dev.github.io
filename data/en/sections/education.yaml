@@ -10,8 +10,8 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
+- name: Ph.D in Being Cool and Fun
+  icon: fa-building-columns
   timeframe: 2016-2020
   institution:
     name: ABC University of Technology
