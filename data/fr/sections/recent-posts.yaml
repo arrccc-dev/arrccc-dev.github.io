@@ -1,0 +1,11 @@
+# informations sur la section
+section:
+  name: Articles récents
+  id: recent-posts
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+# aucune configuration supplémentaire n'est requise

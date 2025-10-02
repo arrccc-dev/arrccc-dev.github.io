@@ -1,0 +1,44 @@
+# informations sur la section
+section:
+  name: Réalisations
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+
+# Vos réalisations
+accomplishments:
+- name: Administrateur système de la Fondation Linux
+  timeline: "Mars 2018 - Mars 2019"
+  organization:
+    name: Fondation Linux
+    url: https://www.linuxfoundation.org
+  courseOverview: Ce cours aide à comprendre les concepts clés tels que la mise en réseau, le stockage, la sécurité, la maintenance, la journalisation et la surveillance, le cycle de vie des applications, le dépannage, les primitives d'objet API, etc. Il aide également à développer la capacité d'établir des cas d'utilisation de base pour les utilisateurs finaux.
+  certificateURL: "https://example.com"
+
+- name: Apprentissage automatique
+  timeline: "Juin 2020 - Janvier 2021"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "Ce cours offre une large introduction à l'apprentissage automatique, à l'exploration de données et à la reconnaissance de formes statistiques. Les sujets incluent : (i) L'apprentissage supervisé (algorithmes paramétriques/non paramétriques, machines à vecteurs de support, noyaux, réseaux de neurones). (ii) L'apprentissage non supervisé (clustering, réduction de dimensionnalité, systèmes de recommandation, apprentissage en profondeur). (iii) Les meilleures pratiques en apprentissage automatique (théorie du biais/variance ; processus d'innovation en apprentissage automatique et en IA)."
+  certificateURL: "https://example.com"
+
+- name: Maîtriser l'entretien de conception de système
+  timeline: "Janvier 2018 - Septembre 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: Ce cours est un guide complet pour maîtriser les SDI. Il est créé par des responsables du recrutement qui ont travaillé chez Google, Facebook, Microsoft et Amazon. Nous avons soigneusement choisi un ensemble de questions qui ont non seulement été posées à plusieurs reprises dans les plus grandes entreprises, mais qui fournissent également une expérience approfondie pour gérer tout problème de conception de système.
+  certificateURL: "https://example.com"
+
+- name: Maîtriser la programmation multithread avec Go (Golang)
+  timeline: "Novembre 2017 - Mars 2018"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Découvrez comment créer des logiciels réactifs et performants. Développez des programmes avec Golang qui sont hautement concurrents et parallèles. Améliorez vos compétences en programmation en Go avec des sujets plus avancés et multithreads.
+  certificateURL: "https://example.com"

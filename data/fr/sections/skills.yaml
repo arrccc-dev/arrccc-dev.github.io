@@ -1,0 +1,71 @@
+# informations sur la section
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+# boutons de filtre
+buttons:
+- name: Tous
+  filter: "all"
+- name: De base
+  filter: "basic"
+- name: Langue
+  filter: "language"
+- name: Conteneur
+  filter: "container"
+- name: Autres
+  filter: "others"
+
+# Vos compétences.
+# Donnez un résumé de chaque compétence dans la section résumé.
+skills:
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Capable de déployer, de gérer des applications sur Kubernetes. Expérimenté dans l'écriture de contrôleurs Kubernetes pour les CRD."
+  categories: ["container"]
+  url: "https://kubernetes.io/"
+
+- name: Développement Go
+  logo: /images/sections/skills/go.png
+  summary: "Utilisation comme langage principal pour le développement professionnel. Capable d'écrire des programmes évolutifs, testables et maintenables."
+  categories: ["basic", "language"]
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "A travaillé avec la plupart des principaux clouds tels que GCP, AWS, Azure, etc."
+  categories: ["others"]
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Écrit la plupart des programmes sous forme de conteneur dockerisé. Expérimenté avec le processus de construction multi-étapes et multi-architectures."
+  categories: ["container"]
+  url: "https://www.docker.com/"
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Capable de configurer les métriques Prometheus. Expérimenté avec PromQL, AlertManager. Également expérimenté dans l'écriture d'exportateurs de métriques."
+  categories: ["basic"]
+  url: "https://prometheus.io/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Utilisation comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
+  categories: ["others"]
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expérimenté avec le développement basé sur git. Utilise principalement Github. A également de l'expérience avec GitLab."
+  categories: ["basic"]
+  url: "https://git-scm.com/"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Connaît la programmation C/C++ de base. Utilisé pour la programmation de concours et la résolution de problèmes."
+  categories: ["basic", "language"]
