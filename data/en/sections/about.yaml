@@ -8,54 +8,37 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Game Producer & Publisher
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company:
+#  name: Example Co.
+#  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'French-American publisher and producer with extensive professional and volunteer team experience. Active in the game dev space as an indie publisher (GDC, PlayNYC) and community organizer (GGP, Gamecraft).'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "arrccc.dev@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/arrccc-dev"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/arrccc-dev/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+- name: itch.io
+  icon: "fa-brands fa-itch-io"
+  url: "https://arrccc.itch.io/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

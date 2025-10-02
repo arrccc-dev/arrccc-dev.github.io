@@ -1,13 +1,13 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+copyright: © 2025 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
-You can modify or distribute the theme without requiring any permission from the theme author.
-However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
+# disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
+# You can modify or distribute the theme without requiring any permission from the theme author.
+# However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of John Doe.
+description: Portfolio and personal blog of game producer and publisher (Caroline) Charlie des Robert.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,8 +22,9 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Charlie d.R. Games
   type: website
-  description: Portfolio and personal blog of John Doe.
+  description: Game Development Portfolio of Charlie des Robert
+# Also want to add custom image hereee 
   image: images/author/john.png
   url: https://hugo-toha.github.io
