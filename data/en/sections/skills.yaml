@@ -13,59 +13,108 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
+- name: Software
+  filter: "software"
+- name: Engines
+  filter: "engine"
+- name: Source Control
+  filter: "source control"
+- name: Publishing
+  filter: "publishing"
+- name: Production
+  filter: "production"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Google Workspace
+#  logo: /images/sections/skills/kubernetes.png
+  summary: "Cgoogol."
+  categories: ["software"]
+  url: "https://workspace.google.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Adobe Creative Cloud
+#  logo: /images/sections/skills/go.png
+  summary: "eeeeeeevil company"
+  categories: ["software"]
+  url: "https://www.adobe.com/creativecloud.html"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: Microsoft 365
+#  logo: /images/sections/skills/cloud.png
+  summary: "i know how to use mfing word"
+  categories: ["software"]
+  url: "https://www.microsoft.com/en-us/microsoft-365"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+- name: Atlassian Jira
+#  logo: /images/sections/skills/docker.svg
+  summary: "jeer"
+  categories: ["software", "production"]
+  url: "https://www.atlassian.com/software/jira"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: Taiga.io
+#  logo: /images/sections/skills/prometheus.png
+  summary: "I love open source <3 I love free and self hosted with no user limit <3"
+  categories: ["software"]
+  url: "https://taiga.io/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+- name: Unreal Engine
+#  logo: /images/sections/skills/linux.png
+  summary: "for BIG game"
+  categories: ["engine"]
+  url: "https://www.unrealengine.com/"
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+- name: Unity
+#  logo: /images/sections/skills/git.png
+  summary: "for smaller game"
+  categories: ["engine"]
+  url: "https://unity.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+- name: Godot
+#  logo: /images/sections/skills/c++.png
+  summary: "when they make me"
+  categories: ["engine"]
+  url: "https://godotengine.org/"
+
+- name: Canva
+#  logo: /images/sections/skills/c++.png
+  summary: "heheheh design"
+  categories: ["software", "others"]
+  url: "https://www.canva.com/"
+
+- name: Figma
+#  logo: /images/sections/skills/c++.png
+  summary: "figma ball"
+  categories: ["software", "others"]
+  url: "https://www.canva.com/"
+
+- name: Miro
+#  logo: /images/sections/skills/c++.png
+  summary: "miro miro on the wall"
+  categories: ["software", "others"]
+  url: "https://miro.com/"
+
+- name: Perforce
+#  logo: /images/sections/skills/c++.png
+  summary: "perchance"
+  categories: ["source control"]
+  url: "https://www.perforce.com/"
+
+- name: Github
+#  logo: /images/sections/skills/c++.png
+  summary: "the only hub im interested in"
+  categories: ["source control"]
+  url: "https://github.com/"
+
+- name: Steam & Steamworks
+#  logo: /images/sections/skills/c++.png
+  summary: "publisher and gamer"
+  categories: ["publishing"]
+  url: "https://store.steampowered.com/"
+
+- name: itch.io
+#  logo: /images/sections/skills/c++.png
+  summary: "publisher and gamer"
+  categories: ["publishing"]
+  url: "https://itch.io/"
