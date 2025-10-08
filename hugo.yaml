@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://arrccc-dev.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Charlie d.R. Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Charlie des Robert - Portfolio"
     weight: 1
   fr:
     languageCode: fr
     languageName: Francais
-    title: "Portfolio de Charlie"
+    title: "Charlie des Robert - Portfolio"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
