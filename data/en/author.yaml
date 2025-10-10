@@ -4,7 +4,7 @@ nickname: "Charlie"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi! I'm"
 # I'd like to add an image here
-image: "images/author/arc-hand-logo.png"
+image: "images/author/arc_hand_logo.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "arrccc.dev@gmail.com"
@@ -17,4 +17,4 @@ summary:
   - Daydreaming about game dev
   - Certified game jam lover
   - Cleaning up documentation (someone might read it)
-  - Doing it for my cat Ilia
+  - Doing it for my cat, Ilia
