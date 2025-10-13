@@ -25,11 +25,6 @@ languages:
     languageName: English
     title: "Charlie des Robert - Portfolio"
     weight: 1
-  fr:
-    languageCode: fr
-    languageName: Francais
-    title: "Charlie des Robert - Portfolio"
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
