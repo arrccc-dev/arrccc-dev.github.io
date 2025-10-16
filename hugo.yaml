@@ -53,7 +53,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background concepts (1).png
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
@@ -65,7 +65,7 @@ params:
     favicon: /images/site/arc_hand_logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/arrccc-dev/arrccc-dev.github.io
   # Default branch of your Git repo
   gitBranch: main
 
