@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Game Projects
   id: projects
   enable: true
   weight: 5

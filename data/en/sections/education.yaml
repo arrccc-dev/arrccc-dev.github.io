@@ -10,40 +10,20 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Being Cool and Fun
-  icon: fa-building-columns
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: B.Sc. in Games
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2021-2025
   institution:
-    name: University of XYZ
+    name: University of Utah
     url: "#"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/Utah_Utes_primary_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
+    achieved: 3.7
     outOf: 4
-  takenCourses: #(optional)
+#  takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 3
@@ -61,44 +41,32 @@ degrees:
       achieved: 3.75
       outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. JUMPSCARE TEST
     url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  - title: Fusce eu augue ut odio porttitor pulvinar. TWICE
     url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - I was a gamer to the highest degree.
   customSections: #(optional)
     - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. threee??
     - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
+      content: Fusce eu augue ut odio porttitor pulvinar. FOFOFURR
+- name: International Baccaleaureate Diploma
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2018-2020
   institution:
-    name: MST College of Science
+    name: International School of Basel
     url: "#"
-    logo: /images/sections/education/science_college.png
+    logo: /images/sections/education/ISB_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+#  grade: #(optional)
+    scale: IB
+    achieved: 5.8
+    outOf: 7
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5

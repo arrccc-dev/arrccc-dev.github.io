@@ -14,13 +14,13 @@ experiences:
     name: Gay Gaming Professionals
     url: "https://gaygamingpros.org/"
     location: Remote
-    logo: /images/sections/experiences/company1.jpg
+    logo: /images/sections/experiences/Logo_GGP_Main.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: GGP is a leading organization of lesbian, gay, bisexual, and transgender game industry professionals and enthusiasts from around the world.
   positions:
-  - designation: Events and Experiences Producer
+  - designation: Events and Experiences Producer (Internship)
     start: Jun 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Jan 1984
@@ -30,44 +30,38 @@ experiences:
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Scholar
+  - designation: GGP Scholar (Scholarship)
     start: Aug 2024
     end: Jun 2025
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Selected for demonstrated leadership and initiative in game development communities.
+    - As part of the 24-25 scholar cohort, 
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: U of U Division of Games
+    url: "https://games.utah.edu/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/UtahGamesLogo.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: The Utah Division of Games at the University of Utah is a top-ranked program in video game education and research. 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Peer Advisor
+    start: Aug 2022
+    end: May 2025
+    points:
+    - Assisted the advisors and ran events etc
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Monkey Barrel Games
+    url: "https://monkeybarrelgames.itch.io/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/MONKEYBARRELGAMES.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - designation: Publishing Manager
+    start: Aug 2021
+    end: May 2025
+    accomplishments:
+    - Oh man
