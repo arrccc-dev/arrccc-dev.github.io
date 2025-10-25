@@ -103,7 +103,7 @@ skills:
 
 - name: Github
   logo: /images/sections/skills/github-mark.png
-  summary: "I am proficient with Perforce, including branching, merging, sorting out conflicts, and submitting changes to keep the codebase clean. I'm also familiar with Git and its web builder."
+  summary: "I primarily use Github for source control, including branching, merging, sorting out conflicts, and submitting changes to keep the codebase clean. I'm also familiar with Git and its web builder."
   categories: ["source control"]
   url: "https://github.com/"
 
