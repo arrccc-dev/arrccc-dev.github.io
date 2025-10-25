@@ -48,19 +48,19 @@ skills:
   url: "https://www.microsoft.com/en-us/microsoft-365"
 
 - name: Atlassian Jira
-  logo: /images/sections/skills/Jira_Logo.png
+  logo: /images/sections/skills/JiraLogoNoText.png
   summary: "I use Jira's comprehensive features for agile project management, including sprint planning, backlog management, issue tracking, and reporting."
   categories: ["software", "production"]
   url: "https://www.atlassian.com/software/jira"
 
 - name: Taiga.io
-  logo: /images/sections/skills/Taiga.png
+  logo: /images/sections/skills/TaigaLogo.png
   summary: "I use Taiga's self-hosted and open-source project management software for agile game production, especially on indie teams."
   categories: ["software"]
   url: "https://taiga.io/"
 
 - name: Unreal Engine
-  logo: /images/sections/skills/Unreal_Engine-Logo.png
+  logo: /images/sections/skills/UE-Logo.png
   summary: "I am familiar with Unreal Engine (up to 5.6) with both Perforce and Github integration, including blueprint scripting, file management, asset pipeline, and more."
   categories: ["engine"]
   url: "https://www.unrealengine.com/"
@@ -78,7 +78,7 @@ skills:
   url: "https://godotengine.org/"
 
 - name: Canva
-  logo: /images/sections/skills/Canva-New-Logo.png
+  logo: /images/sections/skills/CanvaLogo.png
   summary: "I mainly use Canva for graphic design, commercial printing, and quick mock-ups for game assets."
   categories: ["software", "others"]
   url: "https://www.canva.com/"
@@ -114,7 +114,7 @@ skills:
   url: "https://store.steampowered.com/"
 
 - name: itch.io
-  logo: /images/sections/skills/itchio-textless-white.png
+  logo: /images/sections/skills/itchiologoround.png
   summary: "I have used itch.io personally and professionally to publish games, create web pages, and host game jams (such as GGP'S 2025 Pride)."
   categories: ["publishing"]
   url: "https://itch.io/"
