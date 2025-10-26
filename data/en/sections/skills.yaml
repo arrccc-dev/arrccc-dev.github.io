@@ -78,7 +78,7 @@ skills:
   url: "https://godotengine.org/"
 
 - name: Canva
-  logo: /images/sections/skills/CanvaLogo.png
+  logo: /images/sections/skills/CanvaLogo.jpg
   summary: "I mainly use Canva for graphic design, commercial printing, and quick mock-ups for game assets."
   categories: ["software", "others"]
   url: "https://www.canva.com/"
