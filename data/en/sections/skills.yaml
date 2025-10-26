@@ -32,19 +32,19 @@ skills:
 - name: Google Workspace
   logo: /images/sections/skills/GWorkspace_Logo.png
   summary: "I am fluent with the software in Google Workspace, including GDrive, GSheets, GCalendar, GForms, GDocs, GSlides, GMeet and GMail."
-  categories: ["software"]
+  categories: ["software", "production"]
   url: "https://workspace.google.com/"
 
 - name: Adobe Creative Cloud
   logo: /images/sections/skills/Adobe_Creative_Cloud_rainbow_icon.png
   summary: "I've used Adobe software across a variety of projects both collaborative and individual, including Photoshop, Illustrator, After Effects, Substance Premiere, Acrobat, and InDesign."
-  categories: ["software"]
+  categories: ["software", "others"]
   url: "https://www.adobe.com/creativecloud.html"
 
 - name: Microsoft 365
   logo: /images/sections/skills/M365_Logo.png
   summary: "I use Microsoft Excel, Teams, Word, PowerPoint, and Outlook for a variety of tasks."
-  categories: ["software"]
+  categories: ["software", "production"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
 
 - name: Atlassian Jira
@@ -56,7 +56,7 @@ skills:
 - name: Taiga.io
   logo: /images/sections/skills/TaigaLogo.png
   summary: "I use Taiga's self-hosted and open-source project management software for agile game production, especially on indie teams."
-  categories: ["software"]
+  categories: ["software", "production"]
   url: "https://taiga.io/"
 
 - name: Unreal Engine
@@ -92,7 +92,7 @@ skills:
 - name: Miro
   logo: /images/sections/skills/MiroLogo.png
   summary: "I use Miro's collaborative whiteboard functionalities for ideation, brainstorming, and workflow visualization in game production."
-  categories: ["software", "others"]
+  categories: ["software", "production", "others"]
   url: "https://miro.com/"
 
 - name: Perforce

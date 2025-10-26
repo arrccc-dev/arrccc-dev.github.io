@@ -1,10 +1,13 @@
+# I HAVE DISABLED THIS ONE ALSO <3
+
+
 # section information
 section:
   name: Accomplishments
   id: accomplishments
   enable: false
   weight: 9
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
