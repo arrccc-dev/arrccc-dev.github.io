@@ -35,7 +35,7 @@ experiences:
     name: Gay Gaming Professionals
     url: "https://gaygamingpros.org/"
     location: Remote (Los Angeles, CA)
-    logo: /images/sections/experiences/Logo_GGP_Main.jpg
+    logo: /images/sections/experiences/Logo_GGP_Main.png
     overview: GGP is a leading organization of lesbian, gay, bisexual, and transgender game industry professionals and enthusiasts from around the world.
   positions:
   - designation: Events and Experiences Producer (Internship)
@@ -56,7 +56,7 @@ experiences:
     name: Monkey Barrel Games
     url: "https://monkeybarrelgames.itch.io/"
     location: Salt Lake City, UT
-    logo: /images/sections/experiences/MONKEYBARRELGAMES.jpg
+    logo: /images/sections/experiences/MONKEYBARRELGAMES.png
     overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
   positions:
   - designation: Publishing Manager
@@ -69,7 +69,7 @@ experiences:
     name: U of U Division of Games
     url: "https://games.utah.edu/"
     location: Salt Lake City, UT
-    logo: /images/sections/experiences/UtahGamesLogo.jpg
+    logo: /images/sections/experiences/UtahGamesLogo.png
     overview: The Utah Division of Games at the University of Utah is a top-ranked program in video game education and research. 
   positions:
   - designation: Peer Advisor
