@@ -41,16 +41,16 @@ experiences:
   - designation: Events and Experiences Producer (Internship)
     start: Jun 2025
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Increased yearly game jam participation through a campaign spanning the lead up, full event, and subsequent stream and showcase. Organized and published the June 25 Pride event through clear documentation, effective outreach, and junior collaboration.
+    - Multiplied turnout for GGP new CGC Nights initiative through a collaborative community plan and resource allocation, including Thursday Thoughts with Amir Satvat
+
 
   - designation: GGP Scholar (Scholarship)
     start: Aug 2024
     end: Jun 2025
     responsibilities:
     - Selected for demonstrated leadership and initiative in game development communities.
-    - As part of the 24-25 scholar cohort, 
+    - As part of the 24-25 scholar cohort, I got to learn from industry vets, attend GDC (Game Developer's Conference), and visit Double Fine's studio.
 
 - company:
     name: Monkey Barrel Games
@@ -63,9 +63,27 @@ experiences:
     start: Aug 2021
     end: May 2025
     responsibilities:
-    - Oh man
+    - Shipped 6 finished games, leading the product and design teams.
+    - Acquired $2000+ in funding while developing the internal team's publication and production skill sets.
+    - Produced a full demo setup at PlayNYC 24 through marketing management and release planning in collaboration with partner studio Dirty Work.
 
-- company:
+company:
+    name: Hermes Devs LLC
+    url: "h"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/MONKEYBARRELGAMES.png
+    overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
+  positions:
+  - designation: Creative Producer
+    start: Aug 2024
+    end: May 2025
+    responsibilities:
+    - Led a game project from concept to formal pitch, securing full development support.
+    - Tripled the numbers of part-time developers from 12 to 32 with inclusive onboarding.
+    - Established best practices to meet stakeholder-aligned publication milestones, 
+    - Launched Early Access on Steam growing a unique playerbase of  900+ players.
+
+company:
     name: U of U Division of Games
     url: "https://games.utah.edu/"
     location: Salt Lake City, UT
@@ -76,4 +94,4 @@ experiences:
     start: Aug 2022
     end: May 2025
     responsibilities:
-    - Assisted the advisors and ran events etc
+    - Hosted 10+ official and partner events with Utah Games.Offered individual consultation, strategic planning, and academic support to uplift students.
