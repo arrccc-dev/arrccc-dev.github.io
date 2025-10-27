@@ -69,10 +69,10 @@ experiences:
 
 - company:
     name: Hermes Devs LLC
-    url: "h"
+    url: "https://www.linkedin.com/company/hermes-devs-llc"
     location: Salt Lake City, UT
-    logo: /images/sections/experiences/MONKEYBARRELGAMES.png
-    overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
+    logo: /images/sections/experiences/Hermes_Logo.png
+    overview: Hermes Devs LLC is the member-owned indie studio bringing you Hermes' Runner!
   positions:
   - designation: Creative Producer
     start: Aug 2024
@@ -95,3 +95,17 @@ experiences:
     end: May 2025
     responsibilities:
     - Hosted 10+ official and partner events with Utah Games.Offered individual consultation, strategic planning, and academic support to uplift students.
+
+- company:
+    name: Gamecraft
+    url: "https://games.utah.edu/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/GCLogo.png
+    overview: Gamecraft is the U's largest game development club, hosting events ranging from industry guest speakers to monthly game jams. 
+  positions:
+  - designation: Design Officer
+    start: Aug 2022
+    end: May 2025
+    responsibilities:
+    - Elected officer of the second-largest student organization on campus, driving in program planning and execution for over 150+ active students.
+    - Planned, marketed and hosted workshops, game jams and community events focused on design, product, and user experience in games.
