@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Professional Experience
+  name: Professional Game Experience
   id: experiences
   enable: true
   weight: 3
@@ -22,7 +22,7 @@ experiences:
     name: Sunday Studios
     url: "https://www.instagram.com/sundaystudiosgames/"
     location: Remote (New York, NY)
-    logo: /images/sections/experiences/sundaystudios.jpg
+    logo: /images/sections/experiences/SundayStudiosLogo.jpg
     overview: Sunday Studios 
   positions:
   - designation: Publishing Manager
@@ -56,7 +56,7 @@ experiences:
     name: Monkey Barrel Games
     url: "https://monkeybarrelgames.itch.io/"
     location: Salt Lake City, UT
-    logo: /images/sections/experiences/MONKEYBARRELGAMES.png
+    logo: /images/sections/experiences/MonkeyLogo.png
     overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
   positions:
   - designation: Publishing Manager
