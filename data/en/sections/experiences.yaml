@@ -27,9 +27,11 @@ experiences:
   positions:
   - designation: Publishing Manager
     start: Aug 2025
-    # end: Jan 2025
+    # end: Jan 2026
     accomplishments:
-    - Oh man
+    - Manage the publishing timeline of upcoming game Us Five Forever on Steam and itch.io, consulting on legal and financial requirements to suit the team's needs.
+    - Implemented an agile project management system using Taiga to streamline communication and plan sprints until release.
+    - Collaborate with cross-functional internal teams, adjusting scope and timelines to deliver the best possible user experience.
 
 - company:
     name: Gay Gaming Professionals
@@ -104,8 +106,8 @@ experiences:
     overview: Gamecraft is the U's largest game development club, hosting events ranging from industry guest speakers to monthly game jams. 
   positions:
   - designation: Design Officer
-    start: Aug 2022
-    end: May 2025
+    start: Apr 2022
+    end: Apr 2023
     responsibilities:
     - Elected officer of the second-largest student organization on campus, driving in program planning and execution for over 150+ active students.
     - Planned, marketed and hosted workshops, game jams and community events focused on design, product, and user experience in games.
