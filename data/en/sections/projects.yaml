@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Hermes' Runner
-#  logo: /images/sections/projects/kubernetes.png
+  image: /images/sections/projects/kubernetes.png
   role: Creative Producer
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
