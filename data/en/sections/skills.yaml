@@ -118,3 +118,29 @@ skills:
   summary: "I have used itch.io personally and professionally to publish games, create web pages, and host game jams (such as GGP'S 2025 Pride)."
   categories: ["publishing"]
   url: "https://itch.io/"
+
+# ANYTHING BELOW HERE NEEDS A LOGO
+
+- name: Trello
+#  logo: /images/sections/skills/itchiologoround.png
+  summary: "I have used Trello for production on game jam projects."
+  categories: ["software", "production"]
+  url: "https://trello.com/"
+
+- name: Maya
+#  logo: /images/sections/skills/itchiologoround.png
+  summary: "I have used Maya for personal art projects and to assist in asset creation when needed on game teams."
+  categories: ["software", "others"]
+  url: "https://www.autodesk.com/products/maya/"
+
+- name: Blender
+#  logo: /images/sections/skills/itchiologoround.png
+  summary: "I am learning Blender to use for 3d modeling and 3d animation."
+  categories: ["software", "others"]
+  url: "https://www.blender.org/"
+
+- name: ZBrush
+#  logo: /images/sections/skills/itchiologoround.png
+  summary: "I have used ZBrush to create complex or organic 3d models."
+  categories: ["software", "others"]
+  url: "https://www.maxon.net/en/zbrush"
