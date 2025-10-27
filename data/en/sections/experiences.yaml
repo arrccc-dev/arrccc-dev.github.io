@@ -5,26 +5,41 @@ section:
   enable: true
   weight: 3
   showOnNavbar: true
+  
+  # NOTES TO SELF:
+  
   # Can optionally hide the title in sections
   # hideTitle: true 
+
+  # Can optionally show a different logo for dark theme (insert under logo)
+  # darkLogo: /images/sections/experiences/company3.jpg
+
+  # don't provide end date if you are currently working there. It will be replaced by "Present"
 
 # Your experiences
 experiences:
 - company:
+    name: Sunday Studios
+    url: "https://www.instagram.com/sundaystudiosgames/"
+    location: Remote (New York, NY)
+    logo: /images/sections/experiences/sundaystudios.jpg
+    overview: Sunday Studios 
+  positions:
+  - designation: Publishing Manager
+    start: Aug 2025
+    # end: Jan 2025
+    accomplishments:
+    - Oh man
+
+- company:
     name: Gay Gaming Professionals
     url: "https://gaygamingpros.org/"
-    location: Remote
+    location: Remote (Los Angeles, CA)
     logo: /images/sections/experiences/Logo_GGP_Main.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
     overview: GGP is a leading organization of lesbian, gay, bisexual, and transgender game industry professionals and enthusiasts from around the world.
   positions:
   - designation: Events and Experiences Producer (Internship)
     start: Jun 2025
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Jan 1984
-    # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
@@ -38,31 +53,27 @@ experiences:
     - As part of the 24-25 scholar cohort, 
 
 - company:
-    name: U of U Division of Games
-    url: "https://games.utah.edu/"
-    location: Salt Lake City, UT
-    logo: /images/sections/experiences/UtahGamesLogo.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: The Utah Division of Games at the University of Utah is a top-ranked program in video game education and research. 
-  positions:
-  - designation: Peer Advisor
-    start: Aug 2022
-    end: May 2025
-    points:
-    - Assisted the advisors and ran events etc
-
-- company:
     name: Monkey Barrel Games
     url: "https://monkeybarrelgames.itch.io/"
     location: Salt Lake City, UT
     logo: /images/sections/experiences/MONKEYBARRELGAMES.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
     overview: Monkey Barrel Games is a nonprofit game publisher focused on making publishing and marketing accessible to young developers trying to break into the industry.
   positions:
   - designation: Publishing Manager
     start: Aug 2021
     end: May 2025
-    accomplishments:
+    responsibilities:
     - Oh man
+
+- company:
+    name: U of U Division of Games
+    url: "https://games.utah.edu/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/UtahGamesLogo.jpg
+    overview: The Utah Division of Games at the University of Utah is a top-ranked program in video game education and research. 
+  positions:
+  - designation: Peer Advisor
+    start: Aug 2022
+    end: May 2025
+    responsibilities:
+    - Assisted the advisors and ran events etc

@@ -40,18 +40,18 @@ degrees:
     - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. JUMPSCARE TEST
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar. TWICE
-    url: "#"
+#  publications: #(optional)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. JUMPSCARE TEST
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar. TWICE
+#    url: "#"
   extracurricularActivities: #(optional)
   - I was a gamer to the highest degree.
   customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. threee??
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar. FOFOFURR
+    - name: Scholarships
+      content: I got them! They were pretty good!
+
+
 - name: International Baccaleaureate Diploma
   icon: fa-university
   timeframe: 2018-2020
