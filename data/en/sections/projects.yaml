@@ -56,13 +56,13 @@ projects:
   summary: A puzzle survival-horror game where you traverse a maize of maze full of monsters.
   tags: ["jam", "volunteer"]
 
-- name: Starcrossed
-  image: /images/sections/projects/STARCROSSEDCOVER.png
-  role: Design Lead
-  timeline: "Feb 2022"
-  url: "https://monkeybarrelgames.itch.io/starcrossed"
-  summary: This gravity-based infinite arcade local co-op tells the story of two black holes and their love for the earth.
-  tags: ["jam","volunteer"]
+- name: Nebulous Affairs
+  image: /images/sections/projects/NebFairBoxArt_prog.png
+  role: UI & Systems Lead
+  timeline: "Aug 2023 - Dec 2023"
+  url: "http://orionicles.itch.io/nebulous-affairs"
+  summary: A resource management political drama space opera game - interact with colorful characters and manipulat intricate systems to take over the galaxy!
+  tags: ["student"]
 
 - name: Moonblight
   image: /images/sections/projects/MOONBLIGHTSCREEN.png
@@ -72,13 +72,13 @@ projects:
   summary: This bullet hell consists of three levels ramping in difficulty in a boss-style battle.
   tags: ["jam","volunteer"]
 
-- name: Nebulous Affairs
-#  image: /images/sections/projects/toha_website.png
-  role: UI & Systems Lead
-  timeline: "Aug 2023 - Dec 2023"
-  url: "http://orionicles.itch.io/nebulous-affairs"
-  summary: A resource management political drama space opera game - interact with colorful characters and manipulat intricate systems to take over the galaxy!
-  tags: ["student"]
+- name: Starcrossed
+  image: /images/sections/projects/STARCROSSEDCOVER.png
+  role: Design Lead
+  timeline: "Feb 2022"
+  url: "https://monkeybarrelgames.itch.io/starcrossed"
+  summary: This gravity-based infinite arcade local co-op tells the story of two black holes and their love for the earth.
+  tags: ["jam","volunteer"]
 
 - name: Keep Walking
   image: /images/sections/projects/KeepWalkingScreenshot.png
