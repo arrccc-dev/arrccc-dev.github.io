@@ -28,3 +28,43 @@
         filter: none;
     }
 }
+
+.greeting, .greeting-subtitle {
+    text-shadow: 0px 3px 5px black;   /* Bottom-right shadow */
+}
+.typing-carousel {
+    text-shadow: 0px 3px 5px black;
+}
+
+/* Disable navbar transitions added via `@include transition()` in the theme */
+.top-navbar,
+.top-navbar * {
+    transition: none !important;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+}
+
+/* Force solid navbar at top (override theme's transparent style) */
+.top-navbar.transparent-navbar {
+    background-color: #f8fafc !important; /* light bg-primary */
+}
+.top-navbar.transparent-navbar .navbar-brand,
+.top-navbar.transparent-navbar li a {
+    color: #1e293b !important; /* light heading-color */
+}
+.top-navbar.transparent-navbar .feather-menu {
+    stroke: #334155 !important; /* light text-color */
+}
+
+/* Dark theme parity */
+html[data-theme='dark'] .top-navbar.transparent-navbar {
+    background-color: #1f2937 !important; /* dark bg-primary */
+}
+html[data-theme='dark'] .top-navbar.transparent-navbar .navbar-brand,
+html[data-theme='dark'] .top-navbar.transparent-navbar li a {
+    color: #f1f5f9 !important; /* dark heading-color */
+}
+html[data-theme='dark'] .top-navbar.transparent-navbar .feather-menu {
+    stroke: #cbd5e1 !important; /* dark text-color */
+}
