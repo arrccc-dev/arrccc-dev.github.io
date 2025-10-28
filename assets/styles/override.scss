@@ -27,13 +27,14 @@
     .background {
         filter: none;
     }
+    img {
+        background: none !important;
+    }
 }
 
-.greeting, .greeting-subtitle {
-    text-shadow: 0px 3px 5px black;   /* Bottom-right shadow */
-}
-.typing-carousel {
-    text-shadow: 0px 3px 5px black;
+.greeting, .greeting-subtitle, .typing-carousel {
+    -webkit-text-stroke: black 5px;
+    paint-order: stroke fill;
 }
 
 /* Disable navbar transitions added via `@include transition()` in the theme */
