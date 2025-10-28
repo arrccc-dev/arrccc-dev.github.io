@@ -28,11 +28,11 @@ projects:
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
 #  url: "url"
-  summary: Text.
+  summary: Still in production! Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
   tags: ["volunteer"]
 
 - name: Hermes' Runner
-  image: /images/sections/projects/kubernetes.png
+  image: /images/sections/projects/Hermes_MainCapsule.png
   role: Creative Producer
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
@@ -41,7 +41,7 @@ projects:
 
 - name: Am I Y2K?
 # could i put a gif here...?
-  image: /images/sections/projects/kubernetes.png
+  image: /images/sections/projects/itchio_amiy2k.png
   role: Producer & Publisher
   timeline: "Jan 2025 - Mar 2025"
   url: "https://arrccc.itch.io/am-i-y2k"
@@ -49,7 +49,7 @@ projects:
   tags: ["volunteer", "jam", "showcased"]
 
 - name: Maize
-#  image: /images/sections/projects/no-code.png
+  image: /images/sections/MAIZEMAINSCREEN.png
   role: Designer
   timeline: "Oct 2022"
   url: "https://monkeybarrelgames.itch.io/maize"
@@ -57,7 +57,7 @@ projects:
   tags: ["jam", "volunteer"]
 
 - name: Starcrossed
-#  image: /images/sections/projects/toha_website.png
+  image: /images/sections/projects/STARCROSSEDCOVER.png
   role: Design Lead
   timeline: "Feb 2022"
   url: "https://monkeybarrelgames.itch.io/starcrossed"
@@ -65,7 +65,7 @@ projects:
   tags: ["jam","volunteer"]
 
 - name: Moonblight
-#  image: /images/sections/projects/toha_website.png
+  image: /images/sections/projects/MOONBLIGHTSCREEN.png
   role: Design Lead
   timeline: "March 2022"
   url: "https://monkeybarrelgames.itch.io/moonblight"
@@ -81,7 +81,7 @@ projects:
   tags: ["student"]
 
 - name: Keep Walking
-#  image: /images/sections/projects/toha_website.png
+  image: /images/sections/projects/KeepWalkingScreenshot.png
   role: Creative Producer
   timeline: "Jan 2024 - May 2024"
   url: "https://arrccc.itch.io/keep-walking"
