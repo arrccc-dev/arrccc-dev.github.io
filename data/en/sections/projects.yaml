@@ -28,7 +28,7 @@ projects:
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
 #  url: "url"
-  summary: Still in production! <br> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
+  summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
   tags: ["volunteer"]
 
 - name: Hermes' Runner
@@ -36,7 +36,7 @@ projects:
   role: Creative Producer
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
-  summary: A fast-paced parkour game set to the backdrop of an alternate universe Greek city defined by its hyper-capitalist Pantheon. I pitched and led this project in my senior year - it was showcased at Launch 2025 in-person and on stream.
+  summary: A fast-paced parkour game set to the backdrop of an alternate universe Greek city defined by its hyper-capitalist Pantheon. <br> I pitched and led this project in my senior year - it was showcased at Launch 2025 in-person and on stream.
   tags: ["student", "showcased"]
 
 - name: Am I Y2K?
@@ -45,7 +45,7 @@ projects:
   role: Producer & Publisher
   timeline: "Jan 2025 - Mar 2025"
   url: "https://arrccc.itch.io/am-i-y2k"
-  summary: Have you ever wanted to mass-send spam emails to collect people’s souls? A keyboard-clacking incremental web game with adaptive music and comedic wit! <br> I put together this remote, asynchronous team of juniors for Global Game Jam - it was showcased at GDC Nights!
+  summary: A keyboard-clacking, spam-sending, soul-collecting web game with adaptive music and comedic wit! <br> I put together this remote, asynchronous team of juniors for Global Game Jam - it was showcased at GDC Nights!
   tags: ["volunteer", "jam", "showcased"]
 
 - name: Maize
@@ -61,7 +61,7 @@ projects:
   role: UI & Systems Lead
   timeline: "Aug 2023 - Dec 2023"
   url: "http://orionicles.itch.io/nebulous-affairs"
-  summary: A resource management political drama and space opera. Interact with colorful characters and manipulat intricate systems to take over the galaxy!
+  summary: A resource management political drama and space opera - interact with colorful characters and manipulate resources to establish dominance.
   tags: ["student"]
 
 - name: Moonblight
