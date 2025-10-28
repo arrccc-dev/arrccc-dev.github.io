@@ -43,9 +43,15 @@ skills:
 
 - name: Microsoft 365
   logo: /images/sections/skills/M365_Logo.png
-  summary: "I use Microsoft Excel, Teams, Word, PowerPoint, and Outlook for a variety of tasks."
+  summary: "I use Microsoft Teams, Word, PowerPoint, Excel, and Outlook for a variety of tasks."
   categories: ["software", "production"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
+
+- name: Excel (Microsoft 365)
+  logo: /images/sections/skills/ExcelLogo.png
+  summary: "I use Excel's pivot tables, VLOOKUP, and conditional formatting to interpret and analyze large data sets, informing strategic decisions."
+  categories: ["software", "production", "others"]
+  url: "https://excel.cloud.microsoft/"
 
 - name: Atlassian Jira
   logo: /images/sections/skills/JiraLogoNoText.png
