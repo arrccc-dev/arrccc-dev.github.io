@@ -23,12 +23,12 @@ experiences:
     url: "https://www.instagram.com/sundaystudiosgames/"
     location: Remote (New York, NY)
     logo: /images/sections/experiences/SundayStudiosLogo.png
-    overview: Sunday Studios 
+    overview: Sunday Studios is an indie collective with members all over the world based out of NYC.
   positions:
   - designation: Publishing Manager
     start: Aug 2025
     # end: Jan 2026
-    accomplishments:
+    responsibilities:
     - Manage the publishing timeline of upcoming game Us Five Forever on Steam and itch.io, consulting on legal and financial requirements to suit the team's needs.
     - Implemented an agile project management system using Taiga to streamline communication and plan sprints until release.
     - Collaborate with cross-functional internal teams, adjusting scope and timelines to deliver the best possible user experience.

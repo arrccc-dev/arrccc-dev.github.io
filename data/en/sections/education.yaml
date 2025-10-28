@@ -65,5 +65,6 @@ degrees:
     scale: IB
     achieved: 5.8
     outOf: 7
-#  extracurricularActivities: #(optional)
-#  - In vitae facilisis est, eget porta sem.
+  extracurricularActivities: #(optional)
+  - Duke of Edinbourgh Award
+  - 
