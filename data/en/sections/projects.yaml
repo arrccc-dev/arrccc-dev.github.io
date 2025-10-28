@@ -53,7 +53,7 @@ projects:
   role: Designer
   timeline: "Oct 2022"
   url: "https://monkeybarrelgames.itch.io/maize"
-  summary: Text.
+  summary: A puzzle survival-horror game where you traverse a maize of maze full of monsters.
   tags: ["jam", "volunteer"]
 
 - name: Starcrossed
@@ -61,7 +61,7 @@ projects:
   role: Design Lead
   timeline: "Feb 2022"
   url: "https://monkeybarrelgames.itch.io/starcrossed"
-  summary: Text.
+  summary: This gravity-based infinite arcade local co-op tells the story of two black holes and their love for the earth.
   tags: ["jam","volunteer"]
 
 - name: Moonblight
@@ -69,7 +69,7 @@ projects:
   role: Design Lead
   timeline: "March 2022"
   url: "https://monkeybarrelgames.itch.io/moonblight"
-  summary: Text.
+  summary: This bullet hell consists of three levels ramping in difficulty in a boss-style battle.
   tags: ["jam","volunteer"]
 
 - name: Nebulous Affairs
@@ -77,7 +77,7 @@ projects:
   role: UI & Systems Lead
   timeline: "Aug 2023 - Dec 2023"
   url: "http://orionicles.itch.io/nebulous-affairs"
-  summary: Text.
+  summary: A resource management political drama space opera game - interact with colorful characters and manipulat intricate systems to take over the galaxy!
   tags: ["student"]
 
 - name: Keep Walking
@@ -85,5 +85,5 @@ projects:
   role: Creative Producer
   timeline: "Jan 2024 - May 2024"
   url: "https://arrccc.itch.io/keep-walking"
-  summary: Text.
+  summary: An experimental walking simulator that emulates the paranoia of walking home alone at night as a woman.
   tags: ["student"]
