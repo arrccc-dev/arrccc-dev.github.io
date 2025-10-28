@@ -12,61 +12,78 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Game
-  filter: "game"
-- name: Business & Startup
-  filter: "business"
+- name: Volunteer
+  filter: "volunteer"
+- name: Student
+  filter: "student"
 - name: Showcased
   filter: "showcased"
+- name: Game Jam
+  filter: "jam"
 
 # your projects
 projects:
+- name: Us Five Forever
+#  image: /images/sections/projects/toha_website.png
+  role: Publishing Manager
+  timeline: "Aug 2025 - Present"
+#  url: "url"
+  summary: Text.
+  tags: ["volunteer"]
+
 - name: Hermes' Runner
   image: /images/sections/projects/kubernetes.png
   role: Creative Producer
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
   summary: A fast-paced parkour game set to the backdrop of an alternate universe Greek city defined by its hyper-capitalist Pantheon. Traverse the city as quickly as possible to please your celestial boss, and tag things along the way to be stylish while doing it. Showcased at Launch 2025 at the University of Utah.
-  tags: ["game", "showcased"]
+  tags: ["student", "showcased"]
 
 - name: Am I Y2K?
 # could i put a gif here...?
-#  logo: /images/sections/projects/tensorflow.png
+  image: /images/sections/projects/kubernetes.png
   role: Producer & Publisher
   timeline: "Jan 2025 - Mar 2025"
   url: "https://arrccc.itch.io/am-i-y2k"
   summary: Have you ever wanted to mass-send spam emails to collect people’s souls? Showcased at GDC Nights 2025 in collaboration with Global Game Jam.
-  tags: ["game", "showcased"]
-
-- name: Monkey Barrel Games
-  role: Publishing Manager
-  timeline: "Aug 2021 - June 2025"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["business"]
+  tags: ["volunteer", "jam", "showcased"]
 
 - name: Maize
-#  logo: /images/sections/projects/no-code.png
-  role: dev
+#  image: /images/sections/projects/no-code.png
+  role: Designer
   timeline: "Oct 2022"
   url: "https://monkeybarrelgames.itch.io/maize"
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["game"]
+  summary: Text.
+  tags: ["jam", "volunteer"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: Starcrossed
 #  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  url: "https://github.com/hossainemruz/toha"
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  role: Design Lead
+  timeline: "Feb 2022"
+  url: "https://monkeybarrelgames.itch.io/starcrossed"
+  summary: Text.
+  tags: ["jam","volunteer"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: Moonblight
 #  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  url: "https://github.com/hossainemruz/toha"
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  role: Design Lead
+  timeline: "March 2022"
+  url: "https://monkeybarrelgames.itch.io/moonblight"
+  summary: Text.
+  tags: ["jam","volunteer"]
+
+- name: Nebulous Affairs
+#  image: /images/sections/projects/toha_website.png
+  role: UI & Systems Lead
+  timeline: "Aug 2023 - Dec 2023"
+  url: "http://orionicles.itch.io/nebulous-affairs"
+  summary: Text.
+  tags: ["student"]
+
+- name: Keep Walking
+#  image: /images/sections/projects/toha_website.png
+  role: Creative Producer
+  timeline: "Jan 2024 - May 2024"
+  url: "https://arrccc.itch.io/keep-walking"
+  summary: Text.
+  tags: ["student"]
