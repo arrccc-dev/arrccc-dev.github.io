@@ -39,17 +39,20 @@
 
 <div class="container-fluid home" id="home">
   <style>
-    /* Use the raw background image without resizing */
-    #homePageBackgroundImageDivStyled {
-      background-image: url('{{ $backgroundImage | relURL }}');
-    }
-
-    /* Dark theme variant: use raw dark background image (fallback already set) */
-    html[data-theme='dark'] #homePageBackgroundImageDivStyled {
-      background-image: url('{{ $darkBackgroundImage | relURL }}');
+    #homePageBackgroundVideo {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+      z-index: -1;
+      object-fit: cover;
     }
   </style>
   <span class="on-the-fly-behavior"></span>
+  <video id="homePageBackgroundVideo" autoplay muted loop playsinline>
+    <source src="/videos/home_is.mp4" type="video/mp4">
+  </video>
   <div id="homePageBackgroundImageDivStyled" class="background container-fluid"></div>
   <div class="container content text-center">
     <img src="{{ $authorImage.RelPermalink }}" class="rounded-circle mx-auto d-block img-fluid" alt="Author Image" />
