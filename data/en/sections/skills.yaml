@@ -30,7 +30,7 @@ buttons:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Google Workspace
-  logo: /images/sections/skills/GWorkspace_Logo.png
+  logo: /images/sections/skills/google-logo.png
   summary: "I am fluent with the software in Google Workspace, including GDrive, GSheets, GCalendar, GForms, GDocs, GSlides, GMeet and GMail."
   categories: ["software", "production"]
   url: "https://workspace.google.com/"
@@ -42,7 +42,7 @@ skills:
   url: "https://www.adobe.com/creativecloud.html"
 
 - name: Microsoft 365
-  logo: /images/sections/skills/M365_Logo.png
+  logo: /images/sections/skills/MicrosoftLogo.png
   summary: "I use Microsoft Teams, Word, PowerPoint, Excel, and Outlook for a variety of tasks."
   categories: ["software", "production"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
@@ -59,14 +59,14 @@ skills:
   categories: ["software", "production"]
   url: "https://www.atlassian.com/software/jira"
 
-- name: Taiga.io
-  logo: /images/sections/skills/TaigaLogo.png
+- name: Taiga
+  logo: /images/sections/skills/TaigaCircleLogo.png
   summary: "I use Taiga's self-hosted and open-source project management software for agile game production, especially on indie teams."
   categories: ["software", "production"]
   url: "https://taiga.io/"
 
 - name: Unreal Engine
-  logo: /images/sections/skills/UE-Logo.png
+  logo: /images/sections/skills/UnrealLogo.png
   summary: "I am familiar with Unreal Engine (up to 5.6) with both Perforce and Github integration, including blueprint scripting, file management, asset pipeline, and more."
   categories: ["engine"]
   url: "https://www.unrealengine.com/"
@@ -84,7 +84,7 @@ skills:
   url: "https://godotengine.org/"
 
 - name: Canva
-  logo: /images/sections/skills/CanvaLogo.jpg
+  logo: /images/sections/skills/CanvaCircleLogo.png
   summary: "I mainly use Canva for graphic design, commercial printing, and quick mock-ups for game assets."
   categories: ["software", "others"]
   url: "https://www.canva.com/"
@@ -125,28 +125,26 @@ skills:
   categories: ["publishing"]
   url: "https://itch.io/"
 
-# ANYTHING BELOW HERE NEEDS A LOGO
-
 - name: Trello
-#  logo: /images/sections/skills/itchiologoround.png
+  logo: /images/sections/skills/TrelloLogo.png
   summary: "I have used Trello for production on game jam projects."
   categories: ["software", "production"]
   url: "https://trello.com/"
 
 - name: Maya
-#  logo: /images/sections/skills/itchiologoround.png
+  logo: /images/sections/skills/MayaLogo.png
   summary: "I have used Maya for personal art projects and to assist in asset creation when needed on game teams."
   categories: ["software", "others"]
   url: "https://www.autodesk.com/products/maya/"
 
 - name: Blender
-#  logo: /images/sections/skills/itchiologoround.png
+  logo: /images/sections/skills/BlenderCircleLogo.png
   summary: "I am learning Blender to use for 3d modeling and 3d animation."
   categories: ["software", "others"]
   url: "https://www.blender.org/"
 
 - name: ZBrush
-#  logo: /images/sections/skills/itchiologoround.png
+  logo: /images/sections/skills/ZBrushLogo.png
   summary: "I have used ZBrush to create complex or organic 3d models."
   categories: ["software", "others"]
   url: "https://www.maxon.net/en/zbrush"

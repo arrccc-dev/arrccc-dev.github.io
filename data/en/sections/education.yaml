@@ -19,7 +19,7 @@ degrees:
     logo: /images/sections/education/Utah_Utes_primary_logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
+#  grade: #(optional)
     scale: CGPA
     achieved: 3.75
     outOf: 4
@@ -58,13 +58,12 @@ degrees:
   institution:
     name: International School of Basel
     url: "#"
-    logo: /images/sections/education/ISB_logo.png
+    logo: /images/sections/education/LogoISB.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
 #  grade: #(optional)
     scale: IB
     achieved: 5.8
     outOf: 7
-  extracurricularActivities: #(optional)
-  - Duke of Edinbourgh Award
-  - 
+#  extracurricularActivities: #(optional)
+#  - Duke of Edinbourgh Award
