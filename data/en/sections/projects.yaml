@@ -24,10 +24,9 @@ buttons:
 # your projects
 projects:
 - name: Us Five Forever
-#  image: /images/sections/projects/toha_website.png
+  image: /videos/test.webp
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
-#  url: "url"
   summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
   tags: ["volunteer"]
 
@@ -49,7 +48,7 @@ projects:
   tags: ["volunteer", "jam", "showcased"]
 
 - name: Maize
-  image: /images/sections/MAIZEMAINSCREEN.png
+  image: /images/sections/projects/MAIZEMAINSCREEN.png
   role: Designer
   timeline: "Oct 2022"
   url: "https://monkeybarrelgames.itch.io/maize"
