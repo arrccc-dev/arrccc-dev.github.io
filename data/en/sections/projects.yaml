@@ -12,23 +12,23 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Volunteer
-  filter: "volunteer"
-- name: Student
-  filter: "student"
+- name: Published
+  filter: "published"
 - name: Showcased
   filter: "showcased"
-- name: Game Jam
+- name: Game Jams
   filter: "jam"
+- name: In Development
+  filter: "in development"
 
 # your projects
 projects:
 - name: Us Five Forever
-  image: /videos/test.webp
+  image: /images/sections/projects/SundayStudiosUpcomingGame.jpg
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
   summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
-  tags: ["volunteer"]
+  tags: ["in development"]
 
 - name: Hermes' Runner
   image: /images/sections/projects/Hermes_MainCapsule.png
@@ -36,7 +36,7 @@ projects:
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
   summary: A fast-paced parkour game set to the backdrop of an alternate universe Greek city defined by its hyper-capitalist Pantheon. <br> I pitched and led this project in my senior year - it was showcased at Launch 2025 in-person and on stream.
-  tags: ["student", "showcased"]
+  tags: ["published", "showcased"]
 
 - name: Am I Y2K?
 # could i put a gif here...?
@@ -45,23 +45,23 @@ projects:
   timeline: "Jan 2025 - Mar 2025"
   url: "https://arrccc.itch.io/am-i-y2k"
   summary: A keyboard-clacking, spam-sending, soul-collecting web game with adaptive music and comedic wit! <br> I put together this remote, asynchronous team of juniors for Global Game Jam - it was showcased at GDC Nights and on the <a href="https://youtu.be/YeYAgjXCNc0?si=iPVzXbyU6NtrDU_6&t=8344">TDoV Stream</a>!
-  tags: ["volunteer", "jam", "showcased"]
+  tags: ["published", "jam", "showcased"]
 
-- name: Maize
-  image: /images/sections/projects/MAIZEMAINSCREEN.png
-  role: Designer
-  timeline: "Oct 2022"
-  url: "https://monkeybarrelgames.itch.io/maize"
-  summary: A puzzle survival-horror game where you traverse a maize of maze full of monsters.
-  tags: ["jam", "volunteer"]
+#- name: Maize
+#  image: /images/sections/projects/MAIZEMAINSCREEN.png
+#  role: Designer
+#  timeline: "Oct 2022"
+#  url: "https://monkeybarrelgames.itch.io/maize"
+#  summary: A puzzle survival-horror game where you traverse a maize of maze full of monsters.
+#  tags: ["jam", "published"]
 
-- name: Nebulous Affairs
-  image: /images/sections/projects/NebFairBoxArt_prog.png
-  role: UI & Systems Lead
-  timeline: "Aug 2023 - Dec 2023"
-  url: "http://orionicles.itch.io/nebulous-affairs"
-  summary: A resource management political drama and space opera - interact with colorful characters and manipulate resources to establish dominance.
-  tags: ["student"]
+#- name: Nebulous Affairs
+#  image: /images/sections/projects/NebFairBoxArt_prog.png
+#  role: UI & Systems Lead
+#  timeline: "Aug 2023 - Dec 2023"
+#  url: "http://orionicles.itch.io/nebulous-affairs"
+#  summary: A resource management political drama and space opera - interact with colorful characters and manipulate resources to establish dominance.
+#  tags: ["student"]
 
 - name: Moonblight
   image: /images/sections/projects/MOONBLIGHTSCREEN.png
@@ -69,7 +69,7 @@ projects:
   timeline: "March 2022"
   url: "https://monkeybarrelgames.itch.io/moonblight"
   summary: This bullet hell consists of three levels ramping in difficulty in a boss-style battle.
-  tags: ["jam","volunteer"]
+  tags: ["jam", "published"]
 
 - name: Starcrossed
   image: /images/sections/projects/STARCROSSEDCOVER.png
@@ -77,12 +77,12 @@ projects:
   timeline: "Feb 2022"
   url: "https://monkeybarrelgames.itch.io/starcrossed"
   summary: This gravity-based infinite arcade local co-op tells the story of two black holes and their love for the earth.
-  tags: ["jam","volunteer"]
+  tags: ["jam", "published"]
 
-- name: Keep Walking
-  image: /images/sections/projects/KeepWalkingScreenshot.png
-  role: Creative Producer
-  timeline: "Jan 2024 - May 2024"
-  url: "https://arrccc.itch.io/keep-walking"
-  summary: An experimental walking simulator that emulates the paranoia of walking home alone at night as a woman.
-  tags: ["student"]
+#- name: Keep Walking
+#  image: /images/sections/projects/KeepWalkingScreenshot.png
+#  role: Creative Producer
+#  timeline: "Jan 2024 - May 2024"
+#  url: "https://arrccc.itch.io/keep-walking"
+#  summary: An experimental walking simulator that emulates the paranoia of walking home alone at night as a woman.
+#  tags: ["student"]
