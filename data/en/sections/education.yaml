@@ -58,7 +58,7 @@ degrees:
   institution:
     name: International School of Basel
     url: "#"
-    logo: /images/sections/education/ISB_logo.png
+    logo: /images/sections/education/LogoISB.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
 #  grade: #(optional)
