@@ -1,71 +1,107 @@
 .author-profile {
-    position: relative;
-    align-content: center;
+  position: relative;
+  align-content: center;
+  text-align: center;
+
+  .author-name {
+    margin-top: 0px;
+  }
+
+  p {
     text-align: center;
+  }
 
-    .author-name {
-        margin-top: 0px;
-    }
-
-    p {
-        text-align: center;
-    }
-
-    img {
-        height: 120px;
-        width: 120px;
-        margin-left: auto;
-        margin-right: auto;
-        -o-object-fit: cover;
-        object-fit: cover;
-        background-color: white;
-        padding: 5px;
-    }
+  img {
+    height: 120px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    -o-object-fit: cover;
+    object-fit: cover;
+    background-color: white;
+    padding: 5px;
+  }
 }
 
 .home {
-    .background {
-        filter: none;
-    }
-    img {
-        background: none !important;
-    }
+  .background {
+    filter: none;
+  }
+
+  img {
+    background: none !important;
+  }
 }
 
-.greeting, .greeting-subtitle, .typing-carousel {
-    -webkit-text-stroke: black 5px;
-    paint-order: stroke fill;
+.greeting,
+.greeting-subtitle,
+.typing-carousel {
+  -webkit-text-stroke: black 5px;
+  paint-order: stroke fill;
 }
 
 /* Disable navbar transitions added via `@include transition()` in the theme */
 .top-navbar,
 .top-navbar * {
-    transition: none !important;
-    -webkit-transition: none !important;
-    -moz-transition: none !important;
-    -o-transition: none !important;
+  transition: none !important;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
 }
 
 /* Force solid navbar at top (override theme's transparent style) */
 .top-navbar.transparent-navbar {
-    background-color: #f8fafc !important; /* light bg-primary */
+  background-color: #f8fafc !important;
+  /* light bg-primary */
 }
+
 .top-navbar.transparent-navbar .navbar-brand,
 .top-navbar.transparent-navbar li a {
-    color: #1e293b !important; /* light heading-color */
+  color: #1e293b !important;
+  /* light heading-color */
 }
+
 .top-navbar.transparent-navbar .feather-menu {
-    stroke: #334155 !important; /* light text-color */
+  stroke: #334155 !important;
+  /* light text-color */
 }
 
 /* Dark theme parity */
 html[data-theme='dark'] .top-navbar.transparent-navbar {
-    background-color: #1f2937 !important; /* dark bg-primary */
+  background-color: #1f2937 !important;
+  /* dark bg-primary */
 }
+
 html[data-theme='dark'] .top-navbar.transparent-navbar .navbar-brand,
 html[data-theme='dark'] .top-navbar.transparent-navbar li a {
-    color: #f1f5f9 !important; /* dark heading-color */
+  color: #f1f5f9 !important;
+  /* dark heading-color */
 }
+
 html[data-theme='dark'] .top-navbar.transparent-navbar .feather-menu {
-    stroke: #cbd5e1 !important; /* dark text-color */
+  stroke: #cbd5e1 !important;
+  /* dark text-color */
+}
+
+.card {
+
+  &:hover,
+  &:focus {
+    box-shadow: $box-shadow;
+    border: 1px solid get-light-color('bg-primary');
+    @include transition();
+
+    .card-img-top {
+      transform: scale(1.2);
+      object-fit: cover;
+      @include transition();
+    }
+  }
+
+  .card-video-top {
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+    @include transition();
+  }
 }

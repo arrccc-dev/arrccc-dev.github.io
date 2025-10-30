@@ -24,7 +24,8 @@ buttons:
 # your projects
 projects:
 - name: Us Five Forever
-  image: /images/sections/projects/SundayStudiosUpcomingGame.jpg
+  video: /videos/home_is.mp4
+  #  image: /images/sections/projects/SundayStudiosUpcomingGame.jpg
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
   summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
