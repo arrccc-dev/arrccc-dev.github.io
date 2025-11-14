@@ -23,10 +23,20 @@ module:
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
+    disabled: false
     languageCode: en
+    flags: en
     languageName: English
     title: "Charlie des Robert - Portfolio"
     weight: 1
+  fr:
+    disabled: false
+    languageCode: fr
+    languageName: Français
+    flags: fr
+    title: "Charlie d.R. Portfolio"
+    weight: 2
+
 # default language for the content
 defaultContentLanguage: en
 
@@ -155,11 +165,11 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: false
+      enabled: true
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-0VBYTSKDFV
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>

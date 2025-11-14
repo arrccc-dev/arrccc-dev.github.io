@@ -1,0 +1,150 @@
+# informations de section
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  filter: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+# boutons de filtre
+buttons:
+- name: Tous
+  filter: "all"
+- name: Logiciels
+  filter: "software"
+- name: Moteurs
+  filter: "engine"
+- name: Contrôle de version
+  filter: "source control"
+- name: Publication
+  filter: "publishing"
+- name: Production
+  filter: "production"
+- name: Autres
+  filter: "others"
+
+# Vos compétences.
+# Donnez un résumé de chaque compétence dans la section résumé.
+skills:
+- name: Google Workspace
+  logo: /images/sections/skills/google-logo.png
+  summary: "Je maîtrise les logiciels de Google Workspace, notamment GDrive, GSheets, GCalendar, GForms, GDocs, GSlides, GMeet et GMail."
+  categories: ["software", "production"]
+  url: "https://workspace.google.com/"
+
+- name: Adobe Creative Cloud
+  logo: /images/sections/skills/Adobe_Creative_Cloud_rainbow_icon.png
+  summary: "J'ai utilisé les logiciels Adobe dans divers projets collaboratifs et individuels, notamment Photoshop, Illustrator, After Effects, Substance Premiere, Acrobat et InDesign."
+  categories: ["software", "others"]
+  url: "https://www.adobe.com/creativecloud.html"
+
+- name: Microsoft 365
+  logo: /images/sections/skills/MicrosoftLogo.png
+  summary: "J'utilise Microsoft Teams, Word, PowerPoint, Excel et Outlook pour diverses tâches."
+  categories: ["software", "production"]
+  url: "https://www.microsoft.com/en-us/microsoft-365"
+
+- name: Excel (Microsoft 365)
+  logo: /images/sections/skills/ExcelLogo.png
+  summary: "J'utilise les tableaux croisés dynamiques, VLOOKUP et la mise en forme conditionnelle d'Excel pour interpréter et analyser de grands ensembles de données, éclairant les décisions stratégiques."
+  categories: ["software", "production", "others"]
+  url: "https://excel.cloud.microsoft/"
+
+- name: Atlassian Jira
+  logo: /images/sections/skills/JiraLogoNoText.png
+  summary: "J'utilise les fonctionnalités complètes de Jira pour la gestion de projet agile, y compris la planification de sprint, la gestion du backlog, le suivi des problèmes et le reporting."
+  categories: ["software", "production"]
+  url: "https://www.atlassian.com/software/jira"
+
+- name: Taiga
+  logo: /images/sections/skills/TaigaCircleLogo.png
+  summary: "J'utilise le logiciel de gestion de projet auto-hébergé et open source de Taiga pour la production de jeux agile, en particulier dans les équipes indépendantes."
+  categories: ["software", "production"]
+  url: "https://taiga.io/"
+
+- name: Unreal Engine
+  logo: /images/sections/skills/UnrealLogo.png
+  summary: "Je connais Unreal Engine (jusqu'à 5.6) avec l'intégration de Perforce et Github, y compris le script blueprint, la gestion de fichiers, le pipeline d'assets, et plus encore."
+  categories: ["engine"]
+  url: "https://www.unrealengine.com/"
+
+- name: Unity
+  logo: /images/sections/skills/UnityLogo.png
+  summary: "Je connais Unity (jusqu'à 6.2) avec l'intégration de Github, y compris le kit d'outils UI, l'animateur, la conception de niveaux, la gestion de fichiers, le pipeline d'assets, et plus encore."
+  categories: ["engine"]
+  url: "https://unity.com/"
+
+- name: Godot
+  logo: /images/sections/skills/Godot_icon.png
+  summary: "Je connais Godot (jusqu'à 4.5) avec l'intégration de Github, y compris la gestion de fichiers, le pipeline d'assets, et plus encore."
+  categories: ["engine"]
+  url: "https://godotengine.org/"
+
+- name: Canva
+  logo: /images/sections/skills/CanvaCircleLogo.png
+  summary: "J'utilise principalement Canva pour le design graphique, l'impression commerciale et les maquettes rapides pour les assets de jeu."
+  categories: ["software", "others"]
+  url: "https://www.canva.com/"
+
+- name: Figma
+  logo: /images/sections/skills/Figma.png
+  summary: "J'utilise Figma pour concevoir, prototyper et communiquer des idées pour des interfaces utilisateur visuellement attrayantes."
+  categories: ["software", "others"]
+  url: "https://www.canva.com/"
+
+- name: Miro
+  logo: /images/sections/skills/MiroLogo.png
+  summary: "J'utilise les fonctionnalités de tableau blanc collaboratif de Miro pour l'idéation, le brainstorming et la visualisation du flux de travail dans la production de jeux."
+  categories: ["software", "production", "others"]
+  url: "https://miro.com/"
+
+- name: Perforce
+  logo: /images/sections/skills/perforce.jpg
+  summary: "Je maîtrise Perforce, y compris le branchement, la fusion, la résolution de conflits et la soumission de modifications pour garder la base de code propre."
+  categories: ["source control"]
+  url: "https://www.perforce.com/"
+
+- name: Github
+  logo: /images/sections/skills/github-mark.png
+  summary: "J'utilise principalement Github pour le contrôle de version, y compris le branchement, la fusion, la résolution de conflits et la soumission de modifications pour garder la base de code propre. Je connais également Git et son constructeur web."
+  categories: ["source control"]
+  url: "https://github.com/"
+
+- name: Steam & Steamworks
+  logo: /images/sections/skills/SteamIcon.png
+  summary: "Je navigue sur Steam et le backend avec Steamworks pour aider les équipes à créer des pages de développeur et de jeu, ainsi que la bureaucratie des détails juridiques et financiers."
+  categories: ["publishing"]
+  url: "https://store.steampowered.com/"
+
+- name: itch.io
+  logo: /images/sections/skills/itchiologoround.png
+  summary: "J'ai utilisé itch.io personnellement et professionnellement pour publier des jeux, créer des pages web et héberger des game jams (comme la Pride 2025 de GGP)."
+  categories: ["publishing"]
+  url: "https://itch.io/"
+
+- name: Trello
+  logo: /images/sections/skills/TrelloLogo.png
+  summary: "J'ai utilisé Trello pour la production de projets de game jam."
+  categories: ["software", "production"]
+  url: "https://trello.com/"
+
+- name: Maya
+  logo: /images/sections/skills/MayaLogo.png
+  summary: "J'ai utilisé Maya pour des projets artistiques personnels et pour aider à la création d'assets lorsque nécessaire dans les équipes de jeu."
+  categories: ["software", "others"]
+  url: "https://www.autodesk.com/products/maya/"
+
+- name: Blender
+  logo: /images/sections/skills/BlenderCircleLogo.png
+  summary: "J'apprends Blender pour l'utiliser pour la modélisation 3D et l'animation 3D."
+  categories: ["software", "others"]
+  url: "https://www.blender.org/"
+
+- name: ZBrush
+  logo: /images/sections/skills/ZBrushLogo.png
+  summary: "J'ai utilisé ZBrush pour créer des modèles 3D complexes ou organiques."
+  categories: ["software", "others"]
+  url: "https://www.maxon.net/en/zbrush"

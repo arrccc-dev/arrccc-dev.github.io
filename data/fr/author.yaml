@@ -1,0 +1,20 @@
+# quelques informations sur vous
+name: "Charlie des Robert"
+nickname: "Charlie"
+# message de salutation avant votre nom. par défaut "Salut! Je suis" si non fourni
+greeting: "Salut! Je suis"
+# J'aimerais ajouter une image ici
+image: "images/author/arc_hand_logo.png"
+# donnez vos coordonnées. elles seront utilisées dans le pied de page
+contactInfo:
+  email: "arrccc.dev@gmail.com"
+  phone: "+1 801 318 7461"
+  github: https://github.com/arrccc-dev
+  linkedin: https://www.linkedin.com/in/arrccc-dev/
+
+# un résumé de ce que vous faites
+summary:
+  - Je suis producteur de jeux
+  - Je suis éditeur indépendant
+  - Je suis organisateur communautaire
+  - Je suis artiste

@@ -1,0 +1,69 @@
+# informations de section
+section:
+  name: Éducation
+  id: education
+  template: sections/education.html # Utilisez "sections/education-alt.html" pour un modèle alternatif.
+  enable: true
+  weight: 15
+  showOnNavbar: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. en Jeux, Mineure en Gestion
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
+  institution:
+    name: Université de l'Utah | École de commerce David Eccles
+    url: "#"
+    logo: /images/sections/education/Utah_Utes_primary_logo.png
+    # Peut éventuellement afficher un logo différent pour le thème sombre
+    # darkLogo: /images/sections/education/university.jpg
+#  grade: #(optionnel)
+    scale: CGPA
+    achieved: 3.75
+    outOf: 4
+#  takenCourses: #(optionnel)
+    # si vrai, les cours seront rendus sous forme de tableau, sinon ils seront rendus sous forme de liste et les notes seront masquées.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Structures de données et algorithmes
+      achieved: 3.75
+      outOf: 4
+    - name: Sécurité réseau
+      achieved: 3.80
+      outOf: 4
+    - name: Système d'exploitation
+      achieved: 3.5
+      outOf: 4
+    - name: Intelligence artificielle
+      achieved: 3.75
+      outOf: 4
+#  publications: #(optionnel)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. TEST JUMPSCARE
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar. DEUX FOIS
+#    url: "#"
+#  extracurricularActivities: #(optionnel)
+#  - J'étais un joueur au plus haut degré.
+  customSections: #(optionnel)
+    - name: Bourses
+      content: Bourse Gary S. & Patricia Watkins | Bourse GGP | Lauréat de la subvention Lassonde "Get Seeded" | Présenté dans le rapport de fin d'année 2025 
+
+
+- name: Diplôme du Baccalauréat International
+  icon: fa-university
+  timeframe: 2018-2020
+  institution:
+    name: École internationale de Bâle
+    url: "#"
+    logo: /images/sections/education/LogoISB.png
+    # Peut éventuellement afficher un logo différent pour le thème sombre
+    # darkLogo: /images/sections/education/science_college.png
+#  grade: #(optionnel)
+    scale: IB
+    achieved: 5.8
+    outOf: 7
+#  extracurricularActivities: #(optionnel)
+#  - Prix du duc d'Édimbourg

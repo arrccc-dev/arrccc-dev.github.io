@@ -1,0 +1,113 @@
+# informations de section
+section:
+  name: Expérience professionnelle dans le jeu vidéo
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  
+  # NOTES POUR MOI-MÊME:
+  
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true 
+
+  # Peut éventuellement afficher un logo différent pour le thème sombre (insérer sous le logo)
+  # darkLogo: /images/sections/experiences/company3.jpg
+
+  # ne fournissez pas de date de fin si vous y travaillez actuellement. Elle sera remplacée par "Présent"
+
+# Vos expériences
+experiences:
+- company:
+    name: Sunday Studios
+    url: "https://www.instagram.com/sundaystudiosgames/"
+    location: À distance (New York, NY)
+    logo: /images/sections/experiences/SundayStudiosLogo.png
+    overview: Sunday Studios est un collectif indépendant avec des membres du monde entier basé à New York.
+  positions:
+  - designation: Responsable de la publication
+    start: Août 2025
+    # end: Jan 2026
+    responsibilities:
+    - Gérer le calendrier de publication du jeu à venir Us Five Forever sur Steam et itch.io, conseiller sur les exigences juridiques et financières pour répondre aux besoins de l'équipe.
+    - Mise en œuvre d'un système de gestion de projet agile utilisant Taiga pour rationaliser la communication et planifier les sprints jusqu'à la sortie.
+    - Collaborer avec des équipes internes interfonctionnelles, ajuster la portée et les délais pour offrir la meilleure expérience utilisateur possible.
+
+- company:
+    name: Gay Gaming Professionals
+    url: "https://gaygamingpros.org/"
+    location: À distance (Los Angeles, CA)
+    logo: /images/sections/experiences/Logo_GGP_Main.png
+    overview: GGP est une organisation de premier plan de professionnels et passionnés de l'industrie du jeu vidéo lesbiennes, gays, bisexuels et transgenres du monde entier.
+  positions:
+  - designation: Producteur d'événements et d'expériences (Stage)
+    start: Juin 2025
+    responsibilities:
+    - Augmentation de la participation annuelle au game jam grâce à une campagne couvrant la préparation, l'événement complet et le stream et vitrine ultérieurs. Organisé et publié l'événement Pride du 25 juin grâce à une documentation claire, une sensibilisation efficace et une collaboration junior.
+    - Multiplication de la participation à la nouvelle initiative CGC Nights de GGP grâce à un plan communautaire collaboratif et à l'allocation de ressources, y compris Thursday Thoughts avec Amir Satvat
+
+
+  - designation: Boursier GGP (Bourse)
+    start: Août 2024
+    end: Juin 2025
+    responsibilities:
+    - Sélectionné pour son leadership et son initiative démontrés dans les communautés de développement de jeux.
+    - Dans le cadre de la cohorte de boursiers 24-25, j'ai pu apprendre des vétérans de l'industrie, assister à la GDC (Game Developer's Conference) et visiter le studio de Double Fine.
+
+- company:
+    name: Monkey Barrel Games
+    url: "https://monkeybarrelgames.itch.io/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/MonkeyLogo.png
+    overview: Monkey Barrel Games est un éditeur de jeux à but non lucratif axé sur la publication et le marketing accessibles aux jeunes développeurs qui tentent de percer dans l'industrie.
+  positions:
+  - designation: Responsable de la publication
+    start: Août 2021
+    end: Mai 2025
+    responsibilities:
+    - Livraison de 6 jeux terminés, dirigeant les équipes produit et design.
+    - Acquisition de plus de 2000 $ de financement tout en développant les compétences en publication et production de l'équipe interne.
+    - Production d'une démo complète à PlayNYC 24 grâce à la gestion marketing et à la planification des sorties en collaboration avec le studio partenaire Dirty Work.
+
+- company:
+    name: Hermes Devs LLC
+    url: "https://www.linkedin.com/company/hermes-devs-llc"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/Hermes_Logo.png
+    overview: Hermes Devs LLC est le studio indépendant appartenant aux membres qui vous présente Hermes' Runner!
+  positions:
+  - designation: Producteur créatif
+    start: Août 2024
+    end: Mai 2025
+    responsibilities:
+    - Direction d'un projet de jeu du concept au pitch formel, obtenant un soutien complet au développement.
+    - Triplication du nombre de développeurs à temps partiel de 12 à 32 avec une intégration inclusive.
+    - Établissement de meilleures pratiques pour atteindre les jalons de publication alignés sur les parties prenantes.
+    - Lancement de l'Accès Anticipé sur Steam avec une base de joueurs unique de plus de 900 joueurs.
+
+- company:
+    name: Division des jeux de l'Université de l'Utah
+    url: "https://games.utah.edu/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/UtahGamesControllerLogo.png
+    overview: La Division des jeux de l'Utah à l'Université de l'Utah est un programme de premier plan dans l'éducation et la recherche sur les jeux vidéo. 
+  positions:
+  - designation: Conseiller par les pairs
+    start: Août 2022
+    end: Mai 2025
+    responsibilities:
+    - Organisation de plus de 10 événements officiels et partenaires avec Utah Games. Offre de consultations individuelles, de planification stratégique et de soutien académique pour élever les étudiants.
+
+- company:
+    name: Gamecraft
+    url: "https://games.utah.edu/"
+    location: Salt Lake City, UT
+    logo: /images/sections/experiences/GCLogo.png
+    overview: Gamecraft est le plus grand club de développement de jeux de l'université, organisant des événements allant de conférenciers invités de l'industrie à des game jams mensuels. 
+  positions:
+  - designation: Responsable du design
+    start: Avr 2022
+    end: Avr 2023
+    responsibilities:
+    - Officier élu de la deuxième plus grande organisation étudiante du campus, participant à la planification et à l'exécution de programmes pour plus de 150 étudiants actifs.
+    - Planification, marketing et organisation d'ateliers, de game jams et d'événements communautaires axés sur le design, le produit et l'expérience utilisateur dans les jeux.

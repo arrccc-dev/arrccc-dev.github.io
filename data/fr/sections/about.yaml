@@ -1,0 +1,88 @@
+# informations de section
+section:
+  name: À propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# votre désignation
+designation: Producteur et éditeur de jeux
+# informations sur votre entreprise
+# company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# votre CV. ce chemin de fichier doit être relatif à votre répertoire "static"
+# Déprécié. Utilisez plutôt resourceLinks.
+# resume: "files/resume.pdf"
+
+# un résumé sur vous
+summary: 'Wilkommen, bienvenue, welcome! Je suis un éditeur et producteur de jeux franco-américain avec une vaste expérience professionnelle et bénévole en équipe. Je suis actif dans la communauté du développement de jeux en tant qu&#39;éditeur indépendant, producteur de jeux et organisateur communautaire. <br> <br> Mon objectif est d&#39;avoir un impact positif à la fois dans l&#39;industrie du jeu vidéo et dans le monde. Les jeux ont un impact réel - créons quelque chose ensemble!'
+
+# vos liens sociaux
+# donnez-en autant que vous le souhaitez. utilisez font-awesome pour les icônes.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "arrccc.dev@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/arrccc-dev"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/arrccc-dev/"
+
+- name: itch.io
+  icon: "fa-brands fa-itch-io"
+  url: "https://arrccc.itch.io/"
+
+# Vous pouvez mettre des boutons personnalisés pour lier vos ressources pertinentes.
+# Par exemple, vous pouvez mettre un lien vers votre CV.
+# resourceLinks:
+#- title: "Mon CV"
+#  url: "files/resume.pdf"
+
+# Montrez vos badges
+# Vous pouvez afficher vos certificats vérifiables depuis https://www.credly.com.
+# Vous pouvez également afficher une barre circulaire indiquant le niveau d'expertise sur une certaine compétence
+
+# badges:
+# - type: certification
+#  name: Certified Kubernetes Security Specialist
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+#- type: certification
+#  name: Istio and IBM Cloud Kubernetes Service
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+#- type: certification
+#  name: Artificial Intelligence and Machine Learning
+#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 85
+#  color: blue
+
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 90
+#  color: yellow
+
+#- type: soft-skill-indicator
+#  name: Hard Working
+#  percentage: 85
+#  color: orange
+
+# vous pouvez également fournir le code couleur au lieu du nom de la couleur
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

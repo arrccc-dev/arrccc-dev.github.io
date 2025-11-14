@@ -1,0 +1,89 @@
+# informations de section
+section:
+  name: Projets de jeux
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Peut éventuellement masquer le titre dans les sections
+  # hideTitle: true
+
+# boutons de filtre
+buttons:
+- name: Tous
+  filter: "all"
+- name: Publié
+  filter: "published"
+- name: Présenté
+  filter: "showcased"
+- name: Game Jams
+  filter: "jam"
+- name: En développement
+  filter: "in development"
+
+# vos projets
+projects:
+- name: Us Five Forever
+  # video: /videos/home_is.mp4
+  image: /images/sections/projects/SundayStudiosUpcomingGame.jpg
+  role: Responsable de la publication
+  timeline: "Août 2025 - Présent"
+  summary: <strong> Toujours en production! </strong> <br> Us Five Forever est un RPG pictural sur 5 amis du collège, la mort et les fêtes. J'ai été embauché pour informer les délais de publication, intégrer l'équipe à un logiciel de gestion de projet agile et faciliter la communication de production.
+  tags: ["in development"]
+
+- name: Hermes' Runner
+  image: /images/sections/projects/Hermes_MainCapsule.png
+  role: Producteur créatif
+  timeline: "Août 2024 - Mai 2025"
+  url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
+  summary: Un jeu de parkour rapide sur fond d'une ville grecque d'un univers alternatif définie par son Panthéon hyper-capitaliste. <br> J'ai proposé et dirigé ce projet lors de ma dernière année - il a été présenté à Launch 2025 en personne et en stream.
+  tags: ["published", "showcased"]
+
+- name: Am I Y2K?
+# pourrais-je mettre un gif ici...?
+  image: /images/sections/projects/itchio_amiy2k.png
+  role: Producteur et éditeur
+  timeline: "Jan 2025 - Mars 2025"
+  url: "https://arrccc.itch.io/am-i-y2k"
+  summary: Un jeu web avec clavier qui claque, envoi de spam et collecte d'âmes avec musique adaptative et esprit comique! <br> J'ai réuni cette équipe distante et asynchrone de juniors pour Global Game Jam - il a été présenté à GDC Nights et sur le <a href="https://youtu.be/YeYAgjXCNc0?si=iPVzXbyU6NtrDU_6&t=8344">Stream TDoV</a>!
+  tags: ["published", "jam", "showcased"]
+
+#- name: Maize
+#  image: /images/sections/projects/MAIZEMAINSCREEN.png
+#  role: Designer
+#  timeline: "Oct 2022"
+#  url: "https://monkeybarrelgames.itch.io/maize"
+#  summary: Un jeu de puzzle d'horreur de survie où vous traversez un labyrinthe de maïs plein de monstres.
+#  tags: ["jam", "published"]
+
+#- name: Nebulous Affairs
+#  image: /images/sections/projects/NebFairBoxArt_prog.png
+#  role: Responsable UI et systèmes
+#  timeline: "Août 2023 - Déc 2023"
+#  url: "http://orionicles.itch.io/nebulous-affairs"
+#  summary: Un drame politique de gestion de ressources et un opéra spatial - interagissez avec des personnages colorés et manipulez les ressources pour établir la dominance.
+#  tags: ["student"]
+
+- name: Moonblight
+  image: /images/sections/projects/MOONBLIGHTSCREEN.png
+  role: Responsable du design
+  timeline: "Mars 2022"
+  url: "https://monkeybarrelgames.itch.io/moonblight"
+  summary: Ce bullet hell se compose de trois niveaux de difficulté croissante dans une bataille de type boss.
+  tags: ["jam", "published"]
+
+- name: Starcrossed
+  image: /images/sections/projects/STARCROSSEDCOVER.png
+  role: Responsable du design
+  timeline: "Fév 2022"
+  url: "https://monkeybarrelgames.itch.io/starcrossed"
+  summary: Ce jeu d'arcade infini en coopération locale basé sur la gravité raconte l'histoire de deux trous noirs et de leur amour pour la terre.
+  tags: ["jam", "published"]
+
+#- name: Keep Walking
+#  image: /images/sections/projects/KeepWalkingScreenshot.png
+#  role: Producteur créatif
+#  timeline: "Jan 2024 - Mai 2024"
+#  url: "https://arrccc.itch.io/keep-walking"
+#  summary: Un simulateur de marche expérimental qui émule la paranoïa de rentrer seule à pied la nuit en tant que femme.
+#  tags: ["student"]
