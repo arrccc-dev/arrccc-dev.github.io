@@ -13,14 +13,16 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Software
-  filter: "software"
+#- name: Software
+#  filter: "software"
 #- name: Engines
 #  filter: "engine"
 - name: Source Control
   filter: "source control"
 - name: Production
   filter: "production"
+- name: Interdisciplinary
+  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -28,7 +30,7 @@ skills:
 - name: Google Workspace
   logo: /images/sections/skills/google-logo.png
   summary: "Google Drive, Sheets, Calendar, Forms, Meet, Slides, and Docs."
-  categories: ["software", "production"]
+  categories: ["software", "production", "others"]
   url: "https://workspace.google.com/"
 
 - name: Adobe Creative Cloud
@@ -40,7 +42,7 @@ skills:
 - name: Microsoft 365
   logo: /images/sections/skills/MicrosoftLogo.png
   summary: "Microsoft Teams, Word, PowerPoint, Excel, and Outlook."
-  categories: ["software", "production"]
+  categories: ["software", "production", "others"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
 
 - name: Excel
@@ -55,11 +57,11 @@ skills:
   categories: ["software", "production"]
   url: "https://www.atlassian.com/software/jira"
 
-#- name: Taiga
-#  logo: /images/sections/skills/TaigaCircleLogo.png
-#  summary: "I use Taiga's self-hosted and open-source project management software for agile game production, especially on indie teams."
-#  categories: ["software", "production"]
-#  url: "https://taiga.io/"
+- name: Taiga
+  logo: /images/sections/skills/TaigaCircleLogo.png
+  summary: "Self-hosted and open-source project management software, agile game production."
+  categories: ["software", "production"]
+  url: "https://taiga.io/"
 
 #- name: Unreal Engine
 #  logo: /images/sections/skills/UnrealLogo.png
@@ -112,7 +114,7 @@ skills:
 - name: Steam + Steamworks
   logo: /images/sections/skills/SteamIcon.png
   summary: "Steamworks backend, game page structure, SEO, tag system, community development and growth, legal and financial compliance."
-  categories: ["publishing"]
+  categories: ["publishing", "others"]
   url: "https://store.steampowered.com/"
 
 #- name: itch.io
