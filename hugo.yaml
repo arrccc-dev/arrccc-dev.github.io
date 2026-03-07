@@ -1,7 +1,7 @@
 baseURL: https://arrccc-dev.github.io
 
 languageCode: bn
-title: "Charlie d.R. Portfolio"
+title: "Charlie des Robert Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -34,7 +34,7 @@ languages:
     languageCode: fr
     languageName: Français
     flags: fr
-    title: "Charlie d.R. Portfolio"
+    title: "Charlie des Robert - Portfolio"
     weight: 2
 
 # default language for the content

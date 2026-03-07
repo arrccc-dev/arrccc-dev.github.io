@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2025 Copyright, Charlie des Robert.
+copyright: © 2026 Copyright, Charlie des Robert.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 # disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -24,6 +24,6 @@ customMenus:
 openGraph:
   title: Charlie des Robert Portfolio
   type: website
-  description: Game Production and Publishing Portfolio of Charlie des Robert
+  description: Game Production Portfolio of Charlie des Robert
 image: images/author/arc_hand_logo.png
 # url: https://hugo-toha.github.io
