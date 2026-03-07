@@ -19,12 +19,8 @@ buttons:
   filter: "engine"
 - name: Source Control
   filter: "source control"
-- name: Publishing
-  filter: "publishing"
 - name: Production
   filter: "production"
-- name: Others
-  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -47,7 +43,7 @@ skills:
   categories: ["software", "production"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
 
-- name: Excel (Microsoft 365)
+- name: Excel
   logo: /images/sections/skills/ExcelLogo.png
   summary: "I use Excel's pivot tables, VLOOKUP, and conditional formatting to interpret and analyze large data sets, informing strategic decisions."
   categories: ["software", "production", "others"]
@@ -83,11 +79,11 @@ skills:
   categories: ["engine"]
   url: "https://godotengine.org/"
 
-- name: Canva
-  logo: /images/sections/skills/CanvaCircleLogo.png
-  summary: "I mainly use Canva for graphic design, commercial printing, and quick mock-ups for game assets."
-  categories: ["software", "others"]
-  url: "https://www.canva.com/"
+#- name: Canva
+#  logo: /images/sections/skills/CanvaCircleLogo.png
+#  summary: "I mainly use Canva for graphic design, commercial printing, and quick mock-ups for game assets."
+#  categories: ["software", "others"]
+#  url: "https://www.canva.com/"
 
 - name: Figma
   logo: /images/sections/skills/Figma.png
@@ -131,20 +127,20 @@ skills:
   categories: ["software", "production"]
   url: "https://trello.com/"
 
-- name: Maya
-  logo: /images/sections/skills/MayaLogo.png
-  summary: "I have used Maya for personal art projects and to assist in asset creation when needed on game teams."
-  categories: ["software", "others"]
-  url: "https://www.autodesk.com/products/maya/"
+#- name: Maya
+#  logo: /images/sections/skills/MayaLogo.png
+#  summary: "I have used Maya for personal art projects and to assist in asset creation when needed on game teams."
+#  categories: ["software", "others"]
+#  url: "https://www.autodesk.com/products/maya/"
 
-- name: Blender
-  logo: /images/sections/skills/BlenderCircleLogo.png
-  summary: "I am learning Blender to use for 3d modeling and 3d animation."
-  categories: ["software", "others"]
-  url: "https://www.blender.org/"
+#- name: Blender
+#  logo: /images/sections/skills/BlenderCircleLogo.png
+#  summary: "I am learning Blender to use for 3d modeling and 3d animation."
+#  categories: ["software", "others"]
+#  url: "https://www.blender.org/"
 
-- name: ZBrush
-  logo: /images/sections/skills/ZBrushLogo.png
-  summary: "I have used ZBrush to create complex or organic 3d models."
-  categories: ["software", "others"]
-  url: "https://www.maxon.net/en/zbrush"
+#- name: ZBrush
+#  logo: /images/sections/skills/ZBrushLogo.png
+#  summary: "I have used ZBrush to create complex or organic 3d models."
+#  categories: ["software", "others"]
+#  url: "https://www.maxon.net/en/zbrush"

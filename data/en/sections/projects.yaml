@@ -20,6 +20,13 @@ buttons:
   filter: "jam"
 - name: In Development
   filter: "in development"
+- name: Unity
+  filter: "unity"
+- name: Unreal Engine
+  filter: "unreal"
+- name: Godot
+  filter: "godot"
+
 
 # your projects
 projects:
@@ -29,7 +36,7 @@ projects:
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
   summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
-  tags: ["in development"]
+  tags: ["in development", "godot"]
 
 - name: Hermes' Runner
   image: /images/sections/projects/Hermes_MainCapsule.png
@@ -37,7 +44,7 @@ projects:
   timeline: "Aug 2024 - May 2025"
   url: "https://store.steampowered.com/app/3536730/Hermes_Runner/"
   summary: A fast-paced parkour game set to the backdrop of an alternate universe Greek city defined by its hyper-capitalist Pantheon. <br> I pitched and led this project in my senior year - it was showcased at Launch 2025 in-person and on stream.
-  tags: ["published", "showcased"]
+  tags: ["published", "showcased", "unreal"]
 
 - name: Am I Y2K?
 # could i put a gif here...?
@@ -46,7 +53,7 @@ projects:
   timeline: "Jan 2025 - Mar 2025"
   url: "https://arrccc.itch.io/am-i-y2k"
   summary: A keyboard-clacking, spam-sending, soul-collecting web game with adaptive music and comedic wit! <br> I put together this remote, asynchronous team of juniors for Global Game Jam - it was showcased at GDC Nights and on the <a href="https://youtu.be/YeYAgjXCNc0?si=iPVzXbyU6NtrDU_6&t=8344">TDoV Stream</a>!
-  tags: ["published", "jam", "showcased"]
+  tags: ["published", "jam", "showcased", "unity"]
 
 #- name: Maize
 #  image: /images/sections/projects/MAIZEMAINSCREEN.png
@@ -66,24 +73,24 @@ projects:
 
 - name: Moonblight
   image: /images/sections/projects/MOONBLIGHTSCREEN.png
-  role: Design Lead
+  role: Design Producer
   timeline: "March 2022"
   url: "https://monkeybarrelgames.itch.io/moonblight"
   summary: This bullet hell consists of three levels ramping in difficulty in a boss-style battle.
-  tags: ["jam", "published"]
+  tags: ["jam", "published", "unity"]
 
 - name: Starcrossed
   image: /images/sections/projects/STARCROSSEDCOVER.png
-  role: Design Lead
+  role: Design Producer
   timeline: "Feb 2022"
   url: "https://monkeybarrelgames.itch.io/starcrossed"
   summary: This gravity-based infinite arcade local co-op tells the story of two black holes and their love for the earth.
-  tags: ["jam", "published"]
+  tags: ["jam", "published", "unity"]
 
-#- name: Keep Walking
-#  image: /images/sections/projects/KeepWalkingScreenshot.png
-#  role: Creative Producer
-#  timeline: "Jan 2024 - May 2024"
-#  url: "https://arrccc.itch.io/keep-walking"
-#  summary: An experimental walking simulator that emulates the paranoia of walking home alone at night as a woman.
-#  tags: ["student"]
+- name: Keep Walking
+  image: /images/sections/projects/KeepWalkingScreenshot.png
+  role: Creative Producer
+  timeline: "Jan 2024 - May 2024"
+  url: "https://arrccc.itch.io/keep-walking"
+  summary: An experimental walking simulator that emulates the paranoia of walking home alone at night as a woman.
+  tags: ["unity"]

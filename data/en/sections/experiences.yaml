@@ -20,12 +20,12 @@ section:
 experiences:
 - company:
     name: Sunday Studios
-    url: "https://www.instagram.com/sundaystudiosgames/"
+    url: "https://www.sundaystudiosgames.com/"
     location: Remote (New York, NY)
     logo: /images/sections/experiences/SundayStudiosLogo.png
     overview: Sunday Studios is an indie collective with members all over the world based out of NYC.
   positions:
-  - designation: Publishing Manager
+  - designation: Publishing Producer
     start: Aug 2025
     # end: Jan 2026
     responsibilities:
@@ -40,7 +40,7 @@ experiences:
     logo: /images/sections/experiences/Logo_GGP_Main.png
     overview: GGP is a leading organization of lesbian, gay, bisexual, and transgender game industry professionals and enthusiasts from around the world.
   positions:
-  - designation: Events and Experiences Producer (Internship)
+  - designation: Events and Experiences Producer
     start: Jun 2025
     responsibilities:
     - Increased yearly game jam participation through a campaign spanning the lead up, full event, and subsequent stream and showcase. Organized and published the June 25 Pride event through clear documentation, effective outreach, and junior collaboration.
@@ -63,7 +63,7 @@ experiences:
   positions:
   - designation: Publishing Manager
     start: Aug 2021
-    end: May 2025
+    end: Nov 2024
     responsibilities:
     - Shipped 6 finished games, leading the product and design teams.
     - Acquired $2000+ in funding while developing the internal team's publication and production skill sets.
@@ -105,7 +105,7 @@ experiences:
     logo: /images/sections/experiences/GCLogo.png
     overview: Gamecraft is the U's largest game development club, hosting events ranging from industry guest speakers to monthly game jams. 
   positions:
-  - designation: Design Officer
+  - designation: Officer / Event Organizer
     start: Apr 2022
     end: Apr 2023
     responsibilities:
