@@ -15,8 +15,8 @@ buttons:
   filter: "all"
 - name: Software
   filter: "software"
-- name: Engines
-  filter: "engine"
+#- name: Engines
+#  filter: "engine"
 - name: Source Control
   filter: "source control"
 - name: Production
@@ -27,57 +27,57 @@ buttons:
 skills:
 - name: Google Workspace
   logo: /images/sections/skills/google-logo.png
-#  summary: "I am fluent with the software in Google Workspace, including GDrive, GSheets, GCalendar, GForms, GDocs, GSlides, GMeet and GMail."
+  summary: "Google Drive, Sheets, Calendar, Forms, Meet, Slides, and Docs."
   categories: ["software", "production"]
   url: "https://workspace.google.com/"
 
 - name: Adobe Creative Cloud
   logo: /images/sections/skills/Adobe_Creative_Cloud_rainbow_icon.png
-#  summary: "I've used Adobe software across a variety of projects both collaborative and individual, including Photoshop, Illustrator, After Effects, Substance Premiere, Acrobat, and InDesign."
+  summary: "Photoshop, Illustrator, After Effects, Substance Premiere, Acrobat, and InDesign."
   categories: ["software", "others"]
   url: "https://www.adobe.com/creativecloud.html"
 
 - name: Microsoft 365
   logo: /images/sections/skills/MicrosoftLogo.png
-#  summary: "I use Microsoft Teams, Word, PowerPoint, Excel, and Outlook for a variety of tasks."
+  summary: "Microsoft Teams, Word, PowerPoint, Excel, and Outlook."
   categories: ["software", "production"]
   url: "https://www.microsoft.com/en-us/microsoft-365"
 
 - name: Excel
   logo: /images/sections/skills/ExcelLogo.png
-#  summary: "I use Excel's pivot tables, VLOOKUP, and conditional formatting to interpret and analyze large data sets, informing strategic decisions."
+  summary: "Pivot tables, VLOOKUP, Gantt charts, roadmaps, directories, conditional formatting."
   categories: ["software", "production", "others"]
   url: "https://excel.cloud.microsoft/"
 
 - name: Atlassian Jira
   logo: /images/sections/skills/JiraLogoNoText.png
-#  summary: "I use Jira's comprehensive features for agile project management, including sprint planning, backlog management, issue tracking, and reporting."
+  summary: "Agile project management, sprint planning, backlog management, issue tracking, and reporting."
   categories: ["software", "production"]
   url: "https://www.atlassian.com/software/jira"
 
-- name: Taiga
-  logo: /images/sections/skills/TaigaCircleLogo.png
+#- name: Taiga
+#  logo: /images/sections/skills/TaigaCircleLogo.png
 #  summary: "I use Taiga's self-hosted and open-source project management software for agile game production, especially on indie teams."
-  categories: ["software", "production"]
-  url: "https://taiga.io/"
+#  categories: ["software", "production"]
+#  url: "https://taiga.io/"
 
-- name: Unreal Engine
-  logo: /images/sections/skills/UnrealLogo.png
+#- name: Unreal Engine
+#  logo: /images/sections/skills/UnrealLogo.png
 #  summary: "I am familiar with Unreal Engine (up to 5.6) with both Perforce and Github integration, including blueprint scripting, file management, asset pipeline, and more."
-  categories: ["engine"]
-  url: "https://www.unrealengine.com/"
+#  categories: ["engine"]
+#  url: "https://www.unrealengine.com/"
 
-- name: Unity
-  logo: /images/sections/skills/UnityLogo.png
+#- name: Unity
+#  logo: /images/sections/skills/UnityLogo.png
 #  summary: "I am familiar with Unity (up to 6.2) with Github integration, including the UI toolkit, animator, level design, file management, asset pipeline, and more."
-  categories: ["engine"]
-  url: "https://unity.com/"
+#  categories: ["engine"]
+#  url: "https://unity.com/"
 
-- name: Godot
-  logo: /images/sections/skills/Godot_icon.png
+#- name: Godot
+#  logo: /images/sections/skills/Godot_icon.png
 #  summary: "I am familiar with Godot (up to 4.5) with Github integration, including file management, asset pipeline, and more."
-  categories: ["engine"]
-  url: "https://godotengine.org/"
+#  categories: ["engine"]
+#  url: "https://godotengine.org/"
 
 #- name: Canva
 #  logo: /images/sections/skills/CanvaCircleLogo.png
@@ -87,31 +87,31 @@ skills:
 
 - name: Figma
   logo: /images/sections/skills/Figma.png
-#  summary: "I use Figma to design, prototype, and communicate ideas for visually compelling user interfaces."
+  summary: "Charts, brainstorms, designs, prototypes, visual targets, user interfaces."
   categories: ["software", "others"]
-  url: "https://www.canva.com/"
+  url: "https://www.figma.com/"
 
 - name: Miro
   logo: /images/sections/skills/MiroLogo.png
-#  summary: "I use Miro's collaborative whiteboard functionalities for ideation, brainstorming, and workflow visualization in game production."
+  summary: "Collaborative whiteboards, ideation, vision boards, workflow visualization in game production."
   categories: ["software", "production", "others"]
   url: "https://miro.com/"
 
 - name: Perforce
   logo: /images/sections/skills/perforce.jpg
-#  summary: "I am proficient with Perforce, including branching, merging, sorting out conflicts, and submitting changes to keep the codebase clean."
+  summary: "Branching, merging, fixing merge conflicts, and submitting changes to keep the file structure organized."
   categories: ["source control"]
   url: "https://www.perforce.com/"
 
 - name: Github
   logo: /images/sections/skills/github-mark.png
-#  summary: "I primarily use Github for source control, including branching, merging, sorting out conflicts, and submitting changes to keep the codebase clean. I'm also familiar with Git and its web builder."
+  summary: "Git setup, Branching, merging, fixing merge conflicts, and submitting changes to keep the file structure organized."
   categories: ["source control"]
   url: "https://github.com/"
 
-- name: Steam & Steamworks
+- name: Steam + Steamworks
   logo: /images/sections/skills/SteamIcon.png
-#  summary: "I navigate Steam and the backend with Steamworks to help teams build developer and game pages, as well as the bureaucracy of legal and financial details."
+  summary: "Steamworks backend, game page structure, SEO, tag system, community development and growth, legal and financial compliance."
   categories: ["publishing"]
   url: "https://store.steampowered.com/"
 
@@ -121,11 +121,11 @@ skills:
 #  categories: ["publishing"]
 #  url: "https://itch.io/"
 
-- name: Trello
-  logo: /images/sections/skills/TrelloLogo.png
+#- name: Trello
+#  logo: /images/sections/skills/TrelloLogo.png
 #  summary: "I have used Trello for production on game jam projects."
-  categories: ["software", "production"]
-  url: "https://trello.com/"
+#  categories: ["software", "production"]
+#  url: "https://trello.com/"
 
 #- name: Maya
 #  logo: /images/sections/skills/MayaLogo.png
