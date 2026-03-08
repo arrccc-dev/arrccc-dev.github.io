@@ -32,9 +32,10 @@ buttons:
 projects:
 - name: Us Five Forever
   # video: /videos/home_is.mp4
-  image: /images/sections/projects/SundayStudiosUpcomingGame.jpg
+  image: /images/sections/projects/UFF_LibraryHeader.png
   role: Publishing Manager
   timeline: "Aug 2025 - Present"
+  url: "https://www.sundaystudiosgames.com/"
   summary: <strong> Still in production! </strong> <br> Us Five Forever is a painterly RPG about 5 college friends, death, and parties. I was brought on to inform publishing timelines, onboard the team to an agile project management software, and smooth production communication.
   tags: ["in development", "godot"]
 
