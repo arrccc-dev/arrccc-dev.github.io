@@ -1,0 +1,42 @@
+{{/* check if there is any hero image in the same folder as the markdown file */}}
+{{ $heroImage := .Page.Resources.GetMatch "hero.{jpg,jpeg,png,svg,webp}" }}
+{{ $heroPath := "" }}
+
+{{/* if hero image is specified in page front matter, use it */}}
+{{ if .Params.hero }}
+  {{ $heroPath = .Params.hero }}
+  {{/* try to read from the page bundle */}}
+  {{ $heroImage = .Resources.Get .Params.hero }}
+  {{/* if the image does not exist in page bundle, try looking in assets */}}
+  {{ if not $heroImage }}
+    {{ $heroImage = resources.Get .Params.hero }}
+  {{ end }}
+{{ end }}
+
+{{/* optional alias for custom pages */}}
+{{ if and (not $heroImage) (not $heroPath) .Params.headerImage }}
+  {{ $heroPath = .Params.headerImage }}
+  {{ $heroImage = .Resources.Get .Params.headerImage }}
+  {{ if not $heroImage }}
+    {{ $heroImage = resources.Get .Params.headerImage }}
+  {{ end }}
+{{ end }}
+
+{{/* fallback to default hero image when neither resource nor explicit path exists */}}
+{{ if and (not $heroImage) (not $heroPath) }}
+  {{ $heroImage = resources.Get "images/default-hero.jpg" }}
+{{ end }}
+
+{{/* if this is a processable image resource, resize for hero area */}}
+{{ if and $heroImage (ne $heroImage.MediaType.SubType "svg") }}
+  {{ $heroImage = $heroImage.Resize "148x" }}
+{{ end }}
+
+{{/* return resolved path */}}
+{{ if $heroImage }}
+  {{ return $heroImage.RelPermalink }}
+{{ else if $heroPath }}
+  {{ return ($heroPath | relURL) }}
+{{ else }}
+  {{ return ("/images/default-hero.jpg" | relURL) }}
+{{ end }}
