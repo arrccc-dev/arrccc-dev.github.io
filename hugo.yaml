@@ -68,7 +68,7 @@ params:
   # Optional: provide a video to use as the landing page background instead of an image.
   # When set, the site will use this video as a full-screen background (autoplay, muted, loop).
   # Point this at a file in `static/` (for example: /videos/background.mp4)
-  background_video: /images/site/HomeIs_Textless.mp4
+  background_video: /videos/HomeIs_Textless.mp4
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
