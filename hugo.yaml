@@ -30,7 +30,7 @@ languages:
     title: "Charlie des Robert - Portfolio"
     weight: 1
   fr:
-    disabled: false
+    disabled: true
     languageCode: fr
     languageName: Français
     flags: fr
@@ -207,7 +207,7 @@ params:
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
